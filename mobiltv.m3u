@@ -2,77 +2,77 @@
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",Eyüpspor & Fenerbahçe
 https://wwnom.cfd/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivebs1.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 1 HD
 https://andro.adece12.sbs/checklist/receptestt.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivebs2.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 3 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivebs3.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 4 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivebs4.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 5 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 5 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivebs5.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV Max 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV MAX 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivebsm1.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV Max 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV MAX 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivebsm2.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="S SPORT 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",S SPORT 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",S SPORT 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivess2.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TIVIBU SPORT HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TIVIBU SPORT HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivets.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivets.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TIVIBU SPORT 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TIVIBU SPORT 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivets1.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TIVIBU SPORT 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TIVIBU SPORT 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivets2.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TIVIBU SPORT 3 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TIVIBU SPORT 3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivets3.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TIVIBU SPORT 4 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TIVIBU SPORT 4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivets4.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="SMART SPORT 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",SMART SPORT 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivesm1.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="SMART SPORT 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",SMART SPORT 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivesm2.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EURO SPORT 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EURO SPORT 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivees1.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EURO SPORT 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EURO SPORT 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivees2.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb1.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb2.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII 3 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII 3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb3.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb3.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII 4 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII 4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb4.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb4.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII 5 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII 5 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb5.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb5.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII 6 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII 6 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb6.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb6.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII 7 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII 7 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb7.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb7.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="TABII 8 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",TABII 8 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamlivetb8.m3u8
+https://andro.adece12.sbs/checklist/androstreamlivetb8.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN 1 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamliveexn1.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN 2 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamliveexn2.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveexn2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN 3 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN 3 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamliveexn3.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN 4 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN 4 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamliveexn4.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveexn4.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN 5 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN 5 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamliveexn5.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveexn5.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN 6 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN 6 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamliveexn6.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveexn6.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="EXXEN 7 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",EXXEN 7 HD
-https://api.codetabs.com/v1/proxy/?quest=https://andro.adece12.sbs/checklist/androstreamliveexn7.m3u8
+https://andro.adece12.sbs/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1
 https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
 #EXTINF:-1 group-title="ULUSAL KANALLAR" tvg-logo="https://assets.uzunmuhalefet.com/logos/ff506778-7000-4a3b-8376-994a8f32058b.png" tvg-url="https://www.atv.com.tr/" tvg-id="ATV.tr",ATV
