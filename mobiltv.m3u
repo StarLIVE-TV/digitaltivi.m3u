@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",Eyüpspor & Fenerbahçe
 https://wwnom.cfd/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 1 HD
-https://andro.adece12.sbs/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 1 HD
 https://andro.adece12.sbs/checklist/receptestt.m3u8
+#EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 1 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 1 HD
+https://andro.adece12.sbs/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 2 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 2 HD
 https://andro.adece12.sbs/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="SPORT.tr" tvg-name="LİG TV 3 HD" tvg-logo="https://r.resimlink.com/b0xT9KW.jpg" group-title="SÜPER LİG",LİG TV 3 HD
