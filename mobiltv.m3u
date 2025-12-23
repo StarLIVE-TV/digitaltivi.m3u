@@ -3,21 +3,21 @@
 https://bot-sport.aykara463.workers.dev/selcukaspor.m3u8
 #EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",TRT SPOR
 https://bot-sport.aykara463.workers.dev/selcuktrtspor.m3u8
-#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",BEİN SPOR HABER
+#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",LİG TV HABER
 https://bot-sport.aykara463.workers.dev/selcukbeinsportshaber.m3u8
-#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",BEİN SPOR 1
+#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",LİG TV 1
 https://bot-sport.aykara463.workers.dev/selcukbeinsports1.m3u8
-#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",BEİN SPOR 2
+#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",LİG TV 2
 https://bot-sport.aykara463.workers.dev/selcukbeinsports2.m3u8
-#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",BEİN SPOR 3
+#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",LİG TV 3
 https://bot-sport.aykara463.workers.dev/selcukbeinsports3.m3u8
-#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",BEİN SPOR 4
+#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",LİG TV 4
 https://bot-sport.aykara463.workers.dev/selcukbeinsports4.m3u8
-#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",BEİN SPOR 5
+#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",LİG TV 5
 https://bot-sport.aykara463.workers.dev/selcukbeinsports5.m3u8
-#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",BEİN SPOR MAX 1
+#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",LİG TV MAX 1
 https://bot-sport.aykara463.workers.dev/selcukbeinsportsmax1.m3u8
-#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",BEİN SPOR  MAX 2
+#EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",LİG TV MAX 2
 https://bot-sport.aykara463.workers.dev/selcukbeinsportsmax2.m3u8
 #EXTINF:-1 tvg-id="selcuk spor" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SELCUK SPOR",S SPORT 1
 https://bot-sport.aykara463.workers.dev/selcukssport.m3u8
