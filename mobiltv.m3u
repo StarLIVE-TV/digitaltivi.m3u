@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",A SPOR
+#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SPOR KANALLARI",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TRT SPOR
+#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SPOR KANALLARI",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",HT SPOR
+#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SPOR KANALLARI",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EKOL SPOR
+#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SPOR KANALLARI",EKOL SPOR
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",SIFIR TV
+#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SPOR KANALLARI",SIFIR TV
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",MAÇKOLİK TV
+#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SPOR KANALLARI",MAÇKOLİK TV
 https://mackolik-live.ercdn.net/mackolik/mackolik_720p.m3u8
-#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TJK TV
+#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SPOR KANALLARI",TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",SPOTS TV
+#EXTINF:-1 tvg-id="SPOR KANALLARI" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="SPOR KANALLARI",SPOTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 
