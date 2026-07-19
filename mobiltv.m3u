@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="BeINSports",BeIN Sport 1
 https://zeus324232.cfd/b1/index.m3u8
 
@@ -10,13 +7,18 @@ https://zeus324232.cfd/b1/index.m3u8
 #EXTVLCOPT:http-referrer=https://justintv.co/
 https://andro.1286503.xyz/checklist/receptestt.m3u8
 
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="BeINSports",BeIN Sport 1 Yedek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://justintv.co/
+https://andro.evrenesoglu57.click/checklist/batutest.m3u8
+
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="BeINSports",BeIN Sport 2
 https://zeus324232.cfd/b2/index.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 2 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="BeINSports",BeIN Sport 2 Yedek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.1286503.xyz/checklist/androstreamlivebs2.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="BeINSports",BeIN Sport 3
 https://zeus324232.cfd/b3/index.m3u8
@@ -24,7 +26,7 @@ https://zeus324232.cfd/b3/index.m3u8
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 3 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="BeINSports",BeIN Sport 3 Yedek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.1286503.xyz/checklist/androstreamlivebs3.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/nmb701u.jpg" group-title="BeINSports",BeIN Sport 4
 https://zeus324232.cfd/b4/index.m3u8
@@ -32,7 +34,7 @@ https://zeus324232.cfd/b4/index.m3u8
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 4 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/nmb701u.jpg" group-title="BeINSports",BeIN Sport 4 Yedek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.1286503.xyz/checklist/androstreamlivebs4.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/p1vnt5w.jpg" group-title="BeINSports",BeIN Sport 5
 https://zeus324232.cfd/b5/index.m3u8
@@ -40,7 +42,7 @@ https://zeus324232.cfd/b5/index.m3u8
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 5 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/p1vnt5w.jpg" group-title="BeINSports",BeIN Sport 5 Yedek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.1286503.xyz/checklist/androstreamlivebs5.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport MAX 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/k6ic0s7.jpg" group-title="BeINSports",BeIN Sport MAX 1
 https://zeus324232.cfd/b1max/index.m3u8
@@ -147,120 +149,25 @@ https://zeus324232.cfd/tivibu3/index.m3u8
 #EXTINF:-1 tvg-id="tivibu_spor" tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="TivibuSpor",Tivibu Spor 4
 https://zeus324232.cfd/tivibu4/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="Diğerleri", TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="SPOR", TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="Diğerleri", TRT SPOR
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="SPOR", TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="Diğerleri",TRT Spor Yıldız
+#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="SPOR",TRT Spor Yıldız
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="Diğerleri",TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="SPOR",TV 8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8bucuk" tvg-logo="https://i.hizliresim.com/6bynxdm.jpg" group-title="Diğerleri", TV 8.5
+#EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="tv8bucuk" tvg-logo="https://i.hizliresim.com/6bynxdm.jpg" group-title="SPOR", TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
-#EXTINF:-1 tvg-name="Atv" tvg-language="Turkish" tvg-country="TR" tvg-id="atv" tvg-logo="https://i.hizliresim.com/sl35dyd.jpg" group-title="Diğerleri", Atv
+#EXTINF:-1 tvg-name="Atv" tvg-language="Turkish" tvg-country="TR" tvg-id="atv" tvg-logo="https://i.hizliresim.com/sl35dyd.jpg" group-title="SPOR", Atv
 https://zeus324232.cfd/xatv/index.m3u8
 
-#EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="Diğerleri", A Spor
+#EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="SPOR", A Spor
 https://zeus324232.cfd/xaspor/index.m3u8
 
-#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="showtv" tvg-logo="https://mo.ciner.com.tr/video/2023/06/15/ver1726038663/8E1C90B3C04F89681637C4909149450C_640x360.jpg" group-title="Diğerleri",Show TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/checklist/batutest.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV 2 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV 3 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV 4 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV 5 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV MAX 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",LİG TV MAX 2 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",S SPORT 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",S SPORT 2 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TIVIBU SPORT HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivets.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TIVIBU SPORT 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TIVIBU SPORT 2 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TIVIBU SPORT 3 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TIVIBU SPORT 4 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",SMART SPORT 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",SMART SPORT 2 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EURO SPORT 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EURO SPORT 2 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII 2 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII 3 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb3.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII 4 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb4.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII 5 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb5.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII 6 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb6.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII 7 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb7.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",TABII 8 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamlivetb8.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EXXEN HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EXXEN 1 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EXXEN 2 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamliveexn2.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EXXEN 3 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EXXEN 4 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EXXEN 5 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamliveexn5.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EXXEN 6 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
-#EXTINF:-1 tvg-id="LİG TV" tvg-logo="https://files.catbox.moe/w7upi1.jpg" group-title="JUSTİN SPOR",EXXEN 7 HD
-https://andro.evrenesoglu57.clickhttps://andro.evrenesoglu57.click/checklist/androstreamliveexn7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name= group-title="ULUSAL",TRT1 
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ULUSAL",
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ULUSAL",
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ULUSAL",
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ULUSAL",
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ULUSAL",
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ULUSAL",
