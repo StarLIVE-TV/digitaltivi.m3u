@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="SPOR KANALLARI",A SPOR
-https://vavoo.mutlumedya.workers.dev/ID=28805292086eedfe83d038
+https://cdn.theoplayer.com/demos/iframe/theoplayer.html?autoplay=false&muted=false&preload=none&src=https://vavoo.mutlumedya.workers.dev/ID=28805292086eedfe83d038
 
 #EXTINF:-1 group-title="SPOR KANALLARI",TRT SPOR
-https://vavoo.mutlumedya.workers.dev/ID=22629699381f94fcd9dbe6
+https://cdn.theoplayer.com/demos/iframe/theoplayer.html?autoplay=false&muted=false&preload=none&src=https://vavoo.mutlumedya.workers.dev/ID=22629699381f94fcd9dbe6
 
 #EXTINF:-1 group-title="SPOR KANALLARI",TRT SPOR YILDIZ
 https://vavoo.mutlumedya.workers.dev/ID=2750507083b8337c6b6616
