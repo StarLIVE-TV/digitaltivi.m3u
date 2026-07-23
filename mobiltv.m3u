@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" group-title="1.) ULUSAL", TRT1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqt09n.png" group-title="1.) ULUSAL", TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="1.) ULUSAL", ATV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqtcpp.png" group-title="1.) ULUSAL", ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="1.) ULUSAL", SHOW TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqtmfp.png" group-title="1.) ULUSAL", SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
 #EXTINF:-1 tvg-id="" group-title="1.) ULUSAL", STAR TV
@@ -217,3 +217,6 @@ https://andro.evrenesoglu57.click/checklist/androstreamliveexn7.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 8
 https://andro.evrenesoglu57.click/checklist/androstreamliveexn8.m3u8
+
+
+
