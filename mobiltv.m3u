@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",A SPOR
@@ -329,4 +330,131 @@ https://vavoo.mutlumedya.workers.dev/ID=3343300331c5663b93a430
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 8 HD
 https://vavoo.mutlumedya.workers.dev/ID=11590782026618befbb16b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",TRT 1 FHD
+https://vavoo.mutlumedya.workers.dev/ID=2346924541149e465206c7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",ATV FHD
+https://vavoo.mutlumedya.workers.dev/ID=962169494c61eb5a2ee2f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",SHOW FHD 
+https://vavoo.mutlumedya.workers.dev/ID=33174058547853caa0e516
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",KANAL D
+https://vavoo.mutlumedya.workers.dev/ID=4193250917a1b264cec859
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",STAR TV
+https://vavoo.mutlumedya.workers.dev/ID=395479001546efe8f75dd3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",TV 8
+https://vavoo.mutlumedya.workers.dev/ID=1662562034e8a914e62dce
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",TV 8,5
+https://vavoo.mutlumedya.workers.dev/ID=19082658164debc10cdc44
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",NOW TV
+https://vavoo.mutlumedya.workers.dev/ID=2769713183b7a2cf8dde9b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",A2
+https://vavoo.mutlumedya.workers.dev/ID=19057497795e890277f212
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",TEVE 2
+https://vavoo.mutlumedya.workers.dev/ID=2773252030692bf456c601
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",BEYAZ TV
+https://vavoo.mutlumedya.workers.dev/ID=34349646843bc2da28db11
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",KANAL 7
+https://vavoo.mutlumedya.workers.dev/ID=817959285c682bf3e522b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",360 TV
+https://vavoo.mutlumedya.workers.dev/ID=1893598000587432322459
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",NTV HABER
+https://vavoo.mutlumedya.workers.dev/ID=2862710352d0c07152cd12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",HABER TÜRK
+https://vavoo.mutlumedya.workers.dev/ID=2360854158813051c3c887
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",CNN TÜRK
+https://vavoo.mutlumedya.workers.dev/ID=427315396743dfe9212c50
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TRT HABER
+https://vavoo.mutlumedya.workers.dev/ID=2579401878b96c047d58b3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",SÖZCÜ TV
+https://vavoo.mutlumedya.workers.dev/ID=1098172953a40c7864dfeb
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",HALK TV
+https://vavoo.mutlumedya.workers.dev/ID=1320391955e6c5bb1bedb6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",KRT TV
+https://vavoo.mutlumedya.workers.dev/ID=331685130407411552595
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TELE 1
+https://vavoo.mutlumedya.workers.dev/ID=35602928690d57b8926e55
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",EKOL TV
+https://vavoo.mutlumedya.workers.dev/ID=344864184580cfb37ab0e3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",FLASH TV
+https://vavoo.mutlumedya.workers.dev/ID=3806979011e0d72cfb10fc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TV 5 
+https://vavoo.mutlumedya.workers.dev/ID=935671761c36c5491c3ed
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",A HABER
+https://vavoo.mutlumedya.workers.dev/ID=2511732024145ccd20a5d3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TRT WORD
+https://vavoo.mutlumedya.workers.dev/ID=4076064178a12cbf89249a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",A NEWS
+https://vavoo.mutlumedya.workers.dev/ID=3415462105074dc2b1d646
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",ÜLKE TV
+https://vavoo.mutlumedya.workers.dev/ID=3641991612565b8aee4401
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",24 TV
+https://vavoo.mutlumedya.workers.dev/ID=38229012391e140a7f75ba
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TVNET
+https://vavoo.mutlumedya.workers.dev/ID=122166175526c22658c312
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TGRT HABER
+https://vavoo.mutlumedya.workers.dev/ID=356274005436ab338d23af
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",GLOBAL HABER
+https://vavoo.mutlumedya.workers.dev/ID=1224377838995614ed0843
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TV 100
+https://vavoo.mutlumedya.workers.dev/ID=3271096410d07fb733747f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",ULUSAL KANAL
+https://vavoo.mutlumedya.workers.dev/ID=22498016558c1c9b866616
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TÜRK HABER
+https://vavoo.mutlumedya.workers.dev/ID=2012038243cd78e54611e8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",BLOOMBERG HT
+https://vavoo.mutlumedya.workers.dev/ID=8585683074b88a84fea71
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",A PARA
+https://vavoo.mutlumedya.workers.dev/ID=4202445834678957f05238
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",EKOTÜRK
+https://vavoo.mutlumedya.workers.dev/ID=12014567934c0bd95e7df8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",BENGÜ TÜRK
+https://vavoo.mutlumedya.workers.dev/ID=3677880546b91991c857cd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",LİDER HABER
+https://vavoo.mutlumedya.workers.dev/ID=70369886837bb68700663
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",MEDYA HABER
+https://vavoo.mutlumedya.workers.dev/ID=22309682628a9ba731b044
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",61 TRABZON HABER
+https://vavoo.mutlumedya.workers.dev/ID=1840643644b180a4d619d6
+
 
