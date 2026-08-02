@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", TRT1
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", ATV
