@@ -1,459 +1,211 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",A SPOR
-https://vavoo.mutlumedya.workers.dev/ID=28805292086eedfe83d038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TRT SPOR
-https://vavoo.mutlumedya.workers.dev/ID=22629699381f94fcd9dbe6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TRT SPOR YILDIZ
-https://vavoo.mutlumedya.workers.dev/ID=2750507083b8337c6b6616
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",HT SPOR HD 
-https://vavoo.mutlumedya.workers.dev/ID=2773338492aa94862b5b31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EKOL SPOR HD
-https://vavoo.mutlumedya.workers.dev/ID=814969642ed05792517e0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", KANAL D
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS HABER 
-https://vavoo.mutlumedya.workers.dev/ID=1197336000e1b7dd01506d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS HABER HD 
-https://vavoo.mutlumedya.workers.dev/ID=3989995533d0efea1c8696
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS HABER RAW 
-https://vavoo.mutlumedya.workers.dev/ID=164663282518e6179f90af
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", 360 
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 8K FEED 
-https://vavoo.mutlumedya.workers.dev/ID=2113462398d8dd57a8ea73
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS FEED (OZEL FEED YAYIN) 
-https://vavoo.mutlumedya.workers.dev/ID=1453692314f52730c50395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 4K FEED(KUTU) 
-https://vavoo.mutlumedya.workers.dev/ID=267105889a25a483e5e80
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="1.) ULUSAL", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 4K FEED(UYDU) 
-https://vavoo.mutlumedya.workers.dev/ID=1536730627bbf8f95ca477
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 50 FPS 
-https://vavoo.mutlumedya.workers.dev/ID=13524210538e192d878d20
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 H265 
-https://vavoo.mutlumedya.workers.dev/ID=24034250314fd9aa349685
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 FEED 
-https://vavoo.mutlumedya.workers.dev/ID=1363827223a1c98515d612
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 FEED 
-https://vavoo.mutlumedya.workers.dev/ID=22330664333ebb4acbb6ab
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 FEED 
-https://vavoo.mutlumedya.workers.dev/ID=499485497d6131f47417d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",A SPOR
+https://zeus324232.cfd/xaspor/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 FEED 
-https://vavoo.mutlumedya.workers.dev/ID=2729088606df69156b1eda
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS", TRT SPOR
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2145/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 SD 
-https://vavoo.mutlumedya.workers.dev/ID=3692337241ec1b0872b06e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS", HT SPOR
+https://ciner-live.ercdn.net/htSPOR/htSPOR.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 SD
-https://vavoo.mutlumedya.workers.dev/ID=2919229346c4e9a95ddb3f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 1
+https://zeus324232.cfd/b1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 SD 
-https://vavoo.mutlumedya.workers.dev/ID=143239535a2e3c23c1d16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 1
+https://andro.1286503.xyz/checklist/receptestt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 HD 
-https://vavoo.mutlumedya.workers.dev/ID=38404756531618c87fcc66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 1
+https://andro.evrenesoglu57.click/checklist/batutest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 HD 
-https://vavoo.mutlumedya.workers.dev/ID=2576216897d1c2b14af4e9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 2
+https://zeus324232.cfd/b2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 HD 
-https://vavoo.mutlumedya.workers.dev/ID=66217962033a2d3e9c47f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 1 HD 
-https://vavoo.mutlumedya.workers.dev/ID=5934938605e361d7e0ff0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 3
+https://zeus324232.cfd/b3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 2 SD 
-https://vavoo.mutlumedya.workers.dev/ID=323636291171b2af97d745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 2 HD
-https://vavoo.mutlumedya.workers.dev/ID=1447241506bdccfad8b85c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 4
+https://zeus324232.cfd/b4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 2 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=28515391437e928cafd5dd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 3 SD 
-https://vavoo.mutlumedya.workers.dev/ID=206371329905d7f81fb9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 5
+https://zeus324232.cfd/b5/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 3 HD
-https://vavoo.mutlumedya.workers.dev/ID=179745960216563080394f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS 5
+https://andro.evrenesoglu57.click/checklist/androstreamlivebs5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 3 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=17005958018c5d23b49ef0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS MAX 1
+https://zeus324232.cfd/b1max/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 3 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=3410167560f6960a0d6de9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS MAX 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivebm1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 4 SD 
-https://vavoo.mutlumedya.workers.dev/ID=109703960178805874095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS MAX 2
+https://zeus324232.cfd/b2max/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 4 HD
-https://vavoo.mutlumedya.workers.dev/ID=3640906370384c4c528e99
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",StarLIVE SPORTS MAX 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivebm2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 4 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=1872232768c7c65ceb9862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",S SPORTS 1
+https://zeus324232.cfd/s1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 4 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=2938268353a63a37b4528e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",S SPORTS 2
+https://zeus324232.cfd/s2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 5 SD 
-https://vavoo.mutlumedya.workers.dev/ID=33913537343dc42dfa39a1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",S SPORTS PLUS 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS 5 HD
-https://vavoo.mutlumedya.workers.dev/ID=3831757618ff599ed6d68c
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS MAX 1 HD 
-https://vavoo.mutlumedya.workers.dev/ID=22528142332d275721233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",S SPORTS PLUS 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS MAX 1 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=4071474743dbe8a60b9395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",S SPORTS PLUS 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS MAX 2 SD
-https://vavoo.mutlumedya.workers.dev/ID=25896823596a84e43dd09
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",S SPORTS PLUS 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS MAX 2 HD 
-https://vavoo.mutlumedya.workers.dev/ID=2212659820b109b476a4d3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",S SPORTS PLUS 5
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",StarLIVE SPORTS MAX 2 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=3407936242f95c33ae8820
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",S SPORTS PLUS 6
+https://andro.evrenesoglu57.click/checklist/androstreamlivessplus6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S SPORT 
-https://vavoo.mutlumedya.workers.dev/ID=33465497225b9857743b71
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",SMART SPORTS 1
+https://zeus324232.cfd/smart1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT 1 SD 
-https://vavoo.mutlumedya.workers.dev/ID=3202905239f7c8981cff1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",SMART SPORTS 1
+https://andro.evrenesoglu57.click/checklist/androstreamlivesm1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT 1 HD 
-https://vavoo.mutlumedya.workers.dev/ID=919993168ebbbfbeecc50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",SMART SPORTS 2
+https://zeus324232.cfd/smart2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT 1 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=3531762195c7260405eaad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",SMART SPORTS 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivesm2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT 2 SD 
-https://vavoo.mutlumedya.workers.dev/ID=26439990320f2e0b009aff
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS
+https://zeus324232.cfd/tivibu/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S SPORT 2 HD
-https://vavoo.mutlumedya.workers.dev/ID=1313768516926dc999c43b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS
+https://andro.evrenesoglu57.click/checklist/androstreamlivets.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT 2 HD 
-https://vavoo.mutlumedya.workers.dev/ID=1183409452148e7cb0f613
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS 1
+https://zeus324232.cfd/tivibu1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT 2 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=394365103048c3f48946a4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS
+https://andro.evrenesoglu57.click/checklist/androstreamlivets1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT PLUS HD MAÇ ZAMANI 
-https://vavoo.mutlumedya.workers.dev/ID=403604621968c940720735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS 2
+https://zeus324232.cfd/tivibu2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT PLUS 1 HD MAÇ ZAMANI 
-https://vavoo.mutlumedya.workers.dev/ID=3526620942f8fbdb0fb7ad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS 2
+https://andro.evrenesoglu57.click/checklist/androstreamlivets2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT PLUS 1 FHD  MAÇ ZAMANI 
-https://vavoo.mutlumedya.workers.dev/ID=2559756791dcf166140367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS 3
+https://zeus324232.cfd/tivibu3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT PLUS 2 HD MAÇ ZAMANI 
-https://vavoo.mutlumedya.workers.dev/ID=327670923957be380e0892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS 3
+https://andro.evrenesoglu57.click/checklist/androstreamlivets3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT PLUS 2 FHD MAÇ ZAMANI 
-https://vavoo.mutlumedya.workers.dev/ID=2314183566dbbab2892d05
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS 4
+https://zeus324232.cfd/tivibu4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S-SPORT PLUS 3 FHD MAÇ ZAMANI 
-https://vavoo.mutlumedya.workers.dev/ID=20587004472af839207827
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TIVIBU SPORTS 4
+https://andro.evrenesoglu57.click/checklist/androstreamlivets4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",S SPORT PLUS 4 FHD MAÇ ZAMANI
-https://vavoo.mutlumedya.workers.dev/ID=1507829436cb5aa4fb5b34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS
+https://zeus324232.cfd/tabiispor/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR RAW 
-https://vavoo.mutlumedya.workers.dev/ID=1406262118fb4f653061f6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS 1
+https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR  HD
-https://vavoo.mutlumedya.workers.dev/ID=36535158588fee46401238
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS 2
+https://mR8bV4kL1nQ7sH9tW2xP5zJ6g.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR  HD
-https://vavoo.mutlumedya.workers.dev/ID=1159899920595e9c441350
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS 3
+https://mR4vL7nQ2sH9tW5xP1zK3gJ8b.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 1 HD
-https://vavoo.mutlumedya.workers.dev/ID=25659723389efdd2098be1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS 4
+https://sH7tQ2nW5mR1vL9xP4zK3gJ8k.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 1 HD 
-https://vavoo.mutlumedya.workers.dev/ID=36545180071dd8a862ae2e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS 5
+https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 1 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=289665874444b8f4f2d451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS 6
+https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 2 HD
-https://vavoo.mutlumedya.workers.dev/ID=37466838109fc1c67c228d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS 7
+https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 2 HD 
-https://vavoo.mutlumedya.workers.dev/ID=1465680660b8cd069bfa4c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",TABII SPORTS 8
+https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 2 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=25026063331fd9c2bab71e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 1
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 3 HD 
-https://vavoo.mutlumedya.workers.dev/ID=261662401043fc1ad1ed6f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 2
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 3 HD
-https://vavoo.mutlumedya.workers.dev/ID=37949240505288959ad99c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 3
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 3 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=21863899508f19a672f26d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 4
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 4 HD
-https://vavoo.mutlumedya.workers.dev/ID=1343303170fbfea75b9f15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 5
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 4 HD 
-https://vavoo.mutlumedya.workers.dev/ID=3307062704472686916fe7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 6
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TIVIBU SPOR 5 HD 
-https://vavoo.mutlumedya.workers.dev/ID=163038510f87c95f99d11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 7
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR SD 
-https://vavoo.mutlumedya.workers.dev/ID=40221481750ee503c548f9
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR HD
-https://vavoo.mutlumedya.workers.dev/ID=1844863271513a413a321
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR FHD 
-https://vavoo.mutlumedya.workers.dev/ID=225948008747f499d08214
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 1 HD
-https://vavoo.mutlumedya.workers.dev/ID=10977951419d3dfac60f92
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 1 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=310770852202539a162e99
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 1 4K 
-https://vavoo.mutlumedya.workers.dev/ID=38306913165380d4cf64db
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 2 HD
-https://vavoo.mutlumedya.workers.dev/ID=11426114102c71664711c
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 3 HD 
-https://vavoo.mutlumedya.workers.dev/ID=1489430754b4fd6e6dc327
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 4 HD
-https://vavoo.mutlumedya.workers.dev/ID=2307885365b7f1828e97ba
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 5 SD
-https://vavoo.mutlumedya.workers.dev/ID=3035603077ef0df0e5da67
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 5 HD 
-https://vavoo.mutlumedya.workers.dev/ID=26619334135baa08b0bc1a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",TABII SPOR 6 HD
-https://vavoo.mutlumedya.workers.dev/ID=40820967253b1d74e19a7f
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",SPOR SMART 1 SD 
-https://vavoo.mutlumedya.workers.dev/ID=660246670c64f4ea57a46
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",SPOR SMART 1 HD
-https://vavoo.mutlumedya.workers.dev/ID=1771511397d05184d3e443
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",SPOR SMART 1 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=37639315201c3521e36c44
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",SPOR SMART 1 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=1313563350f4a25655e128
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",SPOR SMART 1 HEVC 
-https://vavoo.mutlumedya.workers.dev/ID=3445708926e6195304f00c
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",SPOR SMART 2 HD
-https://vavoo.mutlumedya.workers.dev/ID=90716509593fd6426951b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",SPOR SMART 2 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=2726496671ea6fd3c6dc54
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EUROSPORT 1 HD
-https://vavoo.mutlumedya.workers.dev/ID=34586314617a4110b16336
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EUROSPORT 1 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=3793200644fd418f955402
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EUROSPORT 2 HD
-https://vavoo.mutlumedya.workers.dev/ID=2307325429068c8e128ae6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EUROSPORT 2 FHD 
-https://vavoo.mutlumedya.workers.dev/ID=1821942247abefa6aae14b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",SPORTS TV 
-https://vavoo.mutlumedya.workers.dev/ID=3422827985f7ff6e82532a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 1 SD
-https://vavoo.mutlumedya.workers.dev/ID=11882580665f12f932d6c9
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 1 HD
-https://vavoo.mutlumedya.workers.dev/ID=1208369995ee56db60c6cb
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 1 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=3814925371b27457afc78f
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 1 FEED 
-https://vavoo.mutlumedya.workers.dev/ID=10914039127b6d2cb4f9b1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 2 SD
-https://vavoo.mutlumedya.workers.dev/ID=24320962ff3ce3209657
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 2 HD
-https://vavoo.mutlumedya.workers.dev/ID=3377046146a9c27858fc04
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 2 UHD 
-https://vavoo.mutlumedya.workers.dev/ID=3673037054bbf23da360dd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 3 HD
-https://vavoo.mutlumedya.workers.dev/ID=851841067026eb6346001
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 4 HD
-https://vavoo.mutlumedya.workers.dev/ID=21626092115c96093842ed
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 5 HD
-https://vavoo.mutlumedya.workers.dev/ID=2426097659dac0cbc72851
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 6 HD
-https://vavoo.mutlumedya.workers.dev/ID=4196835163f7f34378737d
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 7 HD
-https://vavoo.mutlumedya.workers.dev/ID=3343300331c5663b93a430
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="SPOR KANALLARI",EXXEN SPORTS 8 HD
-https://vavoo.mutlumedya.workers.dev/ID=11590782026618befbb16b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",TRT 1 FHD
-https://vavoo.mutlumedya.workers.dev/ID=2346924541149e465206c7
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",ATV FHD
-https://vavoo.mutlumedya.workers.dev/ID=962169494c61eb5a2ee2f
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",SHOW FHD 
-https://vavoo.mutlumedya.workers.dev/ID=33174058547853caa0e516
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",KANAL D
-https://vavoo.mutlumedya.workers.dev/ID=4193250917a1b264cec859
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",STAR TV
-https://vavoo.mutlumedya.workers.dev/ID=395479001546efe8f75dd3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",TV 8
-https://vavoo.mutlumedya.workers.dev/ID=1662562034e8a914e62dce
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",TV 8,5
-https://vavoo.mutlumedya.workers.dev/ID=19082658164debc10cdc44
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",NOW TV
-https://vavoo.mutlumedya.workers.dev/ID=2769713183b7a2cf8dde9b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",A2
-https://vavoo.mutlumedya.workers.dev/ID=19057497795e890277f212
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",TEVE 2
-https://vavoo.mutlumedya.workers.dev/ID=2773252030692bf456c601
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",BEYAZ TV
-https://vavoo.mutlumedya.workers.dev/ID=34349646843bc2da28db11
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",KANAL 7
-https://vavoo.mutlumedya.workers.dev/ID=817959285c682bf3e522b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="ULUSAL KANALLAR",360 TV
-https://vavoo.mutlumedya.workers.dev/ID=1893598000587432322459
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",NTV HABER
-https://vavoo.mutlumedya.workers.dev/ID=2862710352d0c07152cd12
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",HABER TÜRK
-https://vavoo.mutlumedya.workers.dev/ID=2360854158813051c3c887
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",CNN TÜRK
-https://vavoo.mutlumedya.workers.dev/ID=427315396743dfe9212c50
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TRT HABER
-https://vavoo.mutlumedya.workers.dev/ID=2579401878b96c047d58b3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",SÖZCÜ TV
-https://vavoo.mutlumedya.workers.dev/ID=1098172953a40c7864dfeb
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",HALK TV
-https://vavoo.mutlumedya.workers.dev/ID=1320391955e6c5bb1bedb6
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",KRT TV
-https://vavoo.mutlumedya.workers.dev/ID=331685130407411552595
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TELE 1
-https://vavoo.mutlumedya.workers.dev/ID=35602928690d57b8926e55
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",EKOL TV
-https://vavoo.mutlumedya.workers.dev/ID=344864184580cfb37ab0e3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",FLASH TV
-https://vavoo.mutlumedya.workers.dev/ID=3806979011e0d72cfb10fc
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TV 5 
-https://vavoo.mutlumedya.workers.dev/ID=935671761c36c5491c3ed
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",A HABER
-https://vavoo.mutlumedya.workers.dev/ID=2511732024145ccd20a5d3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TRT WORD
-https://vavoo.mutlumedya.workers.dev/ID=4076064178a12cbf89249a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",A NEWS
-https://vavoo.mutlumedya.workers.dev/ID=3415462105074dc2b1d646
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",ÜLKE TV
-https://vavoo.mutlumedya.workers.dev/ID=3641991612565b8aee4401
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",24 TV
-https://vavoo.mutlumedya.workers.dev/ID=38229012391e140a7f75ba
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TVNET
-https://vavoo.mutlumedya.workers.dev/ID=122166175526c22658c312
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TGRT HABER
-https://vavoo.mutlumedya.workers.dev/ID=356274005436ab338d23af
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",GLOBAL HABER
-https://vavoo.mutlumedya.workers.dev/ID=1224377838995614ed0843
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TV 100
-https://vavoo.mutlumedya.workers.dev/ID=3271096410d07fb733747f
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",ULUSAL KANAL
-https://vavoo.mutlumedya.workers.dev/ID=22498016558c1c9b866616
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",TÜRK HABER
-https://vavoo.mutlumedya.workers.dev/ID=2012038243cd78e54611e8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",BLOOMBERG HT
-https://vavoo.mutlumedya.workers.dev/ID=8585683074b88a84fea71
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",A PARA
-https://vavoo.mutlumedya.workers.dev/ID=4202445834678957f05238
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",EKOTÜRK
-https://vavoo.mutlumedya.workers.dev/ID=12014567934c0bd95e7df8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",BENGÜ TÜRK
-https://vavoo.mutlumedya.workers.dev/ID=3677880546b91991c857cd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",LİDER HABER
-https://vavoo.mutlumedya.workers.dev/ID=70369886837bb68700663
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",MEDYA HABER
-https://vavoo.mutlumedya.workers.dev/ID=22309682628a9ba731b044
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="HABER KANALLARI",61 TRABZON HABER
-https://vavoo.mutlumedya.workers.dev/ID=1840643644b180a4d619d6
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="2.) StarLIVE SPORTS",EXXEN SPORTS 8
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn8.m3u8
