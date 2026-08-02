@@ -1,36 +1,36 @@
 #EXTM3U
 
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", TRT1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", ATV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", SHOW TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", STAR TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", STAR TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", KANAL D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", KANAL D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", NOW TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR",A2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", 360 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", 360 
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", TEVE 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", BEYAZ TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="group-title="⓵ ➠ ULUSAL KANALLAR", KANAL 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓵ ➠ ULUSAL KANALLAR", KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/k3/zqvbkx.png" group-title="⓶ ➠ StarLIVE SPORTS",A SPOR
