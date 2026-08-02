@@ -1,7 +1,7 @@
 #EXTM3U.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",A SPOR
-https://vavo.mutlumedya.workers.dev/ID=28805292086eedfe83d038.m3u8
+https://vavo.mutlumedya.workers.dev/ID=28805292086eedfe83d038.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",TRT SPOR
 https://vavo.mutlumedya.workers.dev/ID=22629699381f94fcd9dbe6.m3u8
@@ -27,7 +27,7 @@ https://vavo.mutlumedya.workers.dev/ID=164663282518e6179f90af.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",StarLIVE SPORTS 8K FEED 
 https://vavo.mutlumedya.workers.dev/ID=2113462398d8dd57a8ea73.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",StarLIVE SPORTS FEED (OZEL FEED YAYIN) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",StarLIVE SPORTS (OZEL FEED YAYIN) 
 https://vavo.mutlumedya.workers.dev/ID=1453692314f52730c50395.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",StarLIVE SPORTS 4K FEED(KUTU) 
@@ -153,25 +153,25 @@ https://vavo.mutlumedya.workers.dev/ID=1183409452148e7cb0f613.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT 2 UHD 
 https://vavo.mutlumedya.workers.dev/ID=394365103048c3f48946a4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS HD MAÇ ZAMANI 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS HD 
 https://vavo.mutlumedya.workers.dev/ID=403604621968c940720735.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 1 HD MAÇ ZAMANI 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 1 HD 
 https://vavo.mutlumedya.workers.dev/ID=3526620942f8fbdb0fb7ad.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 1 FHD  MAÇ ZAMANI 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 1 FHD  
 https://vavo.mutlumedya.workers.dev/ID=2559756791dcf166140367.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 2 HD MAÇ ZAMANI 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 2 HD 
 https://vavo.mutlumedya.workers.dev/ID=327670923957be380e0892.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 2 FHD MAÇ ZAMANI 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 2 FHD 
 https://vavo.mutlumedya.workers.dev/ID=2314183566dbbab2892d05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 3 FHD MAÇ ZAMANI 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S-SPORT PLUS 3 FHD 
 https://vavo.mutlumedya.workers.dev/ID=20587004472af839207827.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S SPORT PLUS 4 FHD MAÇ ZAMANI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",S SPORT PLUS 4 FHD 
 https://vavo.mutlumedya.workers.dev/ID=1507829436cb5aa4fb5b34.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ SPOR KANALLARI",TIVIBU SPOR RAW 
