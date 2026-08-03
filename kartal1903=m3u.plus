@@ -1228,12 +1228,6 @@ https://iptv.mutlumedya.workers.dev/Kartal1903/ID=4239242367fb52ed133368.m3u8?ip
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓻ ➠ DİNİ KANALLAR",ÇAY TV
 https://iptv.mutlumedya.workers.dev/Kartal1903/ID=4090316698975ac8a762bd.m3u8?ipv4=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓼ ➠ MÜZİK KANALLARI",TEMPO TV
-https://iptv.mutlumedya.workers.dev/Kartal1903/ID=150823084612c089acb3d.m3u8?ipv4=true
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓼ ➠ MÜZİK KANALLARI",TATLISES TV
-https://iptv.mutlumedya.workers.dev/Kartal1903/ID=3333865510ce3775d7abc0.m3u8?ipv4=true
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓼ ➠ MÜZİK KANALLARI",MİSKET 1
 https://files.catbox.moe/6ow2lz.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓼ ➠ MÜZİK KANALLARI",MİSKET 2
@@ -1374,6 +1368,12 @@ https://files.catbox.moe/ozoqga.mp3
 https://files.catbox.moe/sey1cv.opus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓼ ➠ MÜZİK KANALLARI",TÜRKÇE POP
 https://iptv.mutlumedya.workers.dev/Kartal1903/ID=27868531047ce3c7e0c624.m3u8?ipv4=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓼ ➠ MÜZİK KANALLARI",TEMPO TV
+https://iptv.mutlumedya.workers.dev/Kartal1903/ID=150823084612c089acb3d.m3u8?ipv4=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓼ ➠ MÜZİK KANALLARI",TATLISES TV
+https://iptv.mutlumedya.workers.dev/Kartal1903/ID=3333865510ce3775d7abc0.m3u8?ipv4=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓼ ➠ MÜZİK KANALLARI",RETRO TÜRK KLASİK
 https://iptv.mutlumedya.workers.dev/Kartal1903/ID=34152992586965d75e9ba0.m3u8?ipv4=true
