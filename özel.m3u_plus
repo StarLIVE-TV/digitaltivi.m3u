@@ -1,1205 +1,1205 @@
-#EXTM3U
+#EXTM3U.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİLGİLENDİRME" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="BİLGİLENDİRME",BİLGİLENDİRME
-http://zeustv.sbs:25461/freetv_test/freetv_test/695943
+http://zeustv.sbs:25461/freetv_test/freetv_test/695943.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEUS SPORTS 4K FEED" tvg-logo="https://resmim.net/cdn/2026/09/24/EaVyaj.png" group-title="TR BEİN SPORTS",ZEUS SPORTS 4K FEED
-http://zeustv.sbs:25461/freetv_test/freetv_test/511352
+http://zeustv.sbs:25461/freetv_test/freetv_test/511352.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZeusBox Aksiyon" tvg-logo="https://resmim.net/cdn/2026/10/06/HMTPDM.md.png" group-title="TR ZEUSBOX SİNEMA",ZeusBox Aksiyon
-http://zeustv.sbs:25461/freetv_test/freetv_test/511353
+http://zeustv.sbs:25461/freetv_test/freetv_test/511353.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZeusBox Bilim Kurgu" tvg-logo="https://resmim.net/cdn/2026/10/16/Hmcaf6.png" group-title="TR ZEUSBOX SİNEMA",ZeusBox Bilim Kurgu
-http://zeustv.sbs:25461/freetv_test/freetv_test/688876
+http://zeustv.sbs:25461/freetv_test/freetv_test/688876.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZeusBox Komedi" tvg-logo="https://resmim.net/cdn/2026/10/15/Hm5cJH.png" group-title="TR ZEUSBOX SİNEMA",ZeusBox Komedi
-http://zeustv.sbs:25461/freetv_test/freetv_test/688877
+http://zeustv.sbs:25461/freetv_test/freetv_test/688877.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/960px-TRT_4K.svg.png" group-title="TR ULUSAL [ 4K ]",TRT 4K
-http://zeustv.sbs:25461/freetv_test/freetv_test/501711
+http://zeustv.sbs:25461/freetv_test/freetv_test/501711.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL [ 4K ]",TRT 1 4K
-http://zeustv.sbs:25461/freetv_test/freetv_test/501712
+http://zeustv.sbs:25461/freetv_test/freetv_test/501712.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="4K TR: TRT 2" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="TR ULUSAL [ 4K ]",4K TR: TRT 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/695944
+http://zeustv.sbs:25461/freetv_test/freetv_test/695944.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="4K TR: TRT 3" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="TR ULUSAL [ 4K ]",4K TR: TRT 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/501714
+http://zeustv.sbs:25461/freetv_test/freetv_test/501714.m3u8
 #EXTINF:-1 tvg-id="360.HD.tr" tvg-name="4K TR: 360" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="TR ULUSAL [ 4K ]",4K TR: 360
-http://zeustv.sbs:25461/freetv_test/freetv_test/501715
+http://zeustv.sbs:25461/freetv_test/freetv_test/501715.m3u8
 #EXTINF:-1 tvg-id="A2.HD.tr" tvg-name="4K TR: A2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="TR ULUSAL [ 4K ]",4K TR: A2
-http://zeustv.sbs:25461/freetv_test/freetv_test/501716
+http://zeustv.sbs:25461/freetv_test/freetv_test/501716.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="4K TR: ATV" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR ULUSAL [ 4K ]",4K TR: ATV
-http://zeustv.sbs:25461/freetv_test/freetv_test/501717
+http://zeustv.sbs:25461/freetv_test/freetv_test/501717.m3u8
 #EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="4K TR: BEYAZ TV" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="TR ULUSAL [ 4K ]",4K TR: BEYAZ TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/501718
+http://zeustv.sbs:25461/freetv_test/freetv_test/501718.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="4K TR: KANAL 7" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="TR ULUSAL [ 4K ]",4K TR: KANAL 7
-http://zeustv.sbs:25461/freetv_test/freetv_test/501719
+http://zeustv.sbs:25461/freetv_test/freetv_test/501719.m3u8
 #EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-name="4K TR: KANAL D" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR ULUSAL [ 4K ]",4K TR: KANAL D
-http://zeustv.sbs:25461/freetv_test/freetv_test/501720
+http://zeustv.sbs:25461/freetv_test/freetv_test/501720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: MELTEM" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="TR ULUSAL [ 4K ]",4K TR: MELTEM
-http://zeustv.sbs:25461/freetv_test/freetv_test/501721
+http://zeustv.sbs:25461/freetv_test/freetv_test/501721.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: NOW" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="TR ULUSAL [ 4K ]",4K TR: NOW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501722
+http://zeustv.sbs:25461/freetv_test/freetv_test/501722.m3u8
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="4K TR: SHOW TV" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="TR ULUSAL [ 4K ]",4K TR: SHOW TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/501723
+http://zeustv.sbs:25461/freetv_test/freetv_test/501723.m3u8
 #EXTINF:-1 tvg-id="STAR.TV.HD.tr" tvg-name="4K TR: STAR TV" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="TR ULUSAL [ 4K ]",4K TR: STAR TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/501724
+http://zeustv.sbs:25461/freetv_test/freetv_test/501724.m3u8
 #EXTINF:-1 tvg-id="TEVE2.HD.tr" tvg-name="4K TR: TEVE2" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="TR ULUSAL [ 4K ]",4K TR: TEVE2
-http://zeustv.sbs:25461/freetv_test/freetv_test/501725
+http://zeustv.sbs:25461/freetv_test/freetv_test/501725.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="4K TR: TRT 1 YEDEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL [ 4K ]",4K TR: TRT 1 YEDEK
-http://zeustv.sbs:25461/freetv_test/freetv_test/501726
+http://zeustv.sbs:25461/freetv_test/freetv_test/501726.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.HD.tr" tvg-name="4K TR: TRT AVAZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="TR ULUSAL [ 4K ]",4K TR: TRT AVAZ
-http://zeustv.sbs:25461/freetv_test/freetv_test/501727
+http://zeustv.sbs:25461/freetv_test/freetv_test/501727.m3u8
 #EXTINF:-1 tvg-id="TRT.KURDİ.tr" tvg-name="4K TR: TRT KURD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="TR ULUSAL [ 4K ]",4K TR: TRT KURD
-http://zeustv.sbs:25461/freetv_test/freetv_test/501728
+http://zeustv.sbs:25461/freetv_test/freetv_test/501728.m3u8
 #EXTINF:-1 tvg-id="TRT.TÜRK.tr" tvg-name="4K TR: TRT TÜRK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="TR ULUSAL [ 4K ]",4K TR: TRT TÜRK
-http://zeustv.sbs:25461/freetv_test/freetv_test/501729
+http://zeustv.sbs:25461/freetv_test/freetv_test/501729.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: TV 4" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="TR ULUSAL [ 4K ]",4K TR: TV 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/501730
+http://zeustv.sbs:25461/freetv_test/freetv_test/501730.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="4K TR: TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="TR ULUSAL [ 4K ]",4K TR: TV8
-http://zeustv.sbs:25461/freetv_test/freetv_test/501731
+http://zeustv.sbs:25461/freetv_test/freetv_test/501731.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: TV8,5" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="TR ULUSAL [ 4K ]",4K TR: TV8,5
-http://zeustv.sbs:25461/freetv_test/freetv_test/999771
+http://zeustv.sbs:25461/freetv_test/freetv_test/999771.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 1 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL [ RAW / HEVC ]",TRT 1 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501733
+http://zeustv.sbs:25461/freetv_test/freetv_test/501733.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL [ RAW / HEVC ]",TRT 1 HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501734
+http://zeustv.sbs:25461/freetv_test/freetv_test/501734.m3u8
 #EXTINF:-1 tvg-id="360.HD.tr" tvg-name="360 RAW" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="TR ULUSAL [ RAW / HEVC ]",360 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501735
+http://zeustv.sbs:25461/freetv_test/freetv_test/501735.m3u8
 #EXTINF:-1 tvg-id="A2.HD.tr" tvg-name="A2 HEVC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="TR ULUSAL [ RAW / HEVC ]",A2 HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501736
+http://zeustv.sbs:25461/freetv_test/freetv_test/501736.m3u8
 #EXTINF:-1 tvg-id="A2.HD.tr" tvg-name="A2 RAW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="TR ULUSAL [ RAW / HEVC ]",A2 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501737
+http://zeustv.sbs:25461/freetv_test/freetv_test/501737.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="ATV HEVC" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR ULUSAL [ RAW / HEVC ]",ATV HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501738
+http://zeustv.sbs:25461/freetv_test/freetv_test/501738.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV RAW" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR ULUSAL [ RAW / HEVC ]",ATV RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/999772
+http://zeustv.sbs:25461/freetv_test/freetv_test/999772.m3u8
 #EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="BEYAZ TV HEVC" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="TR ULUSAL [ RAW / HEVC ]",BEYAZ TV HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501740
+http://zeustv.sbs:25461/freetv_test/freetv_test/501740.m3u8
 #EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="BEYAZ TV RAW" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="TR ULUSAL [ RAW / HEVC ]",BEYAZ TV RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501741
+http://zeustv.sbs:25461/freetv_test/freetv_test/501741.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX CRIME HEVC" tvg-logo="https://i.imgur.com/htrPojY.png" group-title="TR ULUSAL [ RAW / HEVC ]",FOX CRIME HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501742
+http://zeustv.sbs:25461/freetv_test/freetv_test/501742.m3u8
 #EXTINF:-1 tvg-id="KANAL.16.tr" tvg-name="KANAL 360 HEVC" tvg-logo="https://i.imgur.com/Mr7XPii.png" group-title="TR ULUSAL [ RAW / HEVC ]",KANAL 360 HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501743
+http://zeustv.sbs:25461/freetv_test/freetv_test/501743.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="KANAL 7 HEVC" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="TR ULUSAL [ RAW / HEVC ]",KANAL 7 HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501744
+http://zeustv.sbs:25461/freetv_test/freetv_test/501744.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="KANAL 7 RAW" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="TR ULUSAL [ RAW / HEVC ]",KANAL 7 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501745
+http://zeustv.sbs:25461/freetv_test/freetv_test/501745.m3u8
 #EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-name="KANAL D HEVC" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR ULUSAL [ RAW / HEVC ]",KANAL D HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501746
+http://zeustv.sbs:25461/freetv_test/freetv_test/501746.m3u8
 #EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-name="KANAL D RAW" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR ULUSAL [ RAW / HEVC ]",KANAL D RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501747
+http://zeustv.sbs:25461/freetv_test/freetv_test/501747.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV HEVC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nowa-tv-pl.png" group-title="TR ULUSAL [ RAW / HEVC ]",NOW TV HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501748
+http://zeustv.sbs:25461/freetv_test/freetv_test/501748.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV RAW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nowa-tv-pl.png" group-title="TR ULUSAL [ RAW / HEVC ]",NOW TV RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501749
+http://zeustv.sbs:25461/freetv_test/freetv_test/501749.m3u8
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="SHOW TV HEVC" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="TR ULUSAL [ RAW / HEVC ]",SHOW TV HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501750
+http://zeustv.sbs:25461/freetv_test/freetv_test/501750.m3u8
 #EXTINF:-1 tvg-id="STAR.TV.HD.tr" tvg-name="STAR TV HEVC YEDEK" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="TR ULUSAL [ RAW / HEVC ]",STAR TV HEVC YEDEK
-http://zeustv.sbs:25461/freetv_test/freetv_test/501751
+http://zeustv.sbs:25461/freetv_test/freetv_test/501751.m3u8
 #EXTINF:-1 tvg-id="STAR.TV.HD.tr" tvg-name="STAR TV RAW" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="TR ULUSAL [ RAW / HEVC ]",STAR TV RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501752
+http://zeustv.sbs:25461/freetv_test/freetv_test/501752.m3u8
 #EXTINF:-1 tvg-id="TEVE2.HD.tr" tvg-name="TEVE 2 HEVC" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="TR ULUSAL [ RAW / HEVC ]",TEVE 2 HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501753
+http://zeustv.sbs:25461/freetv_test/freetv_test/501753.m3u8
 #EXTINF:-1 tvg-id="TEVE2.HD.tr" tvg-name="TEVE2 RAW" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="TR ULUSAL [ RAW / HEVC ]",TEVE2 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501754
+http://zeustv.sbs:25461/freetv_test/freetv_test/501754.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT2 RAW" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="TR ULUSAL [ RAW / HEVC ]",TRT2 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501755
+http://zeustv.sbs:25461/freetv_test/freetv_test/501755.m3u8
 #EXTINF:-1 tvg-id="TRT.KURDİ.tr" tvg-name="TRT KURDI RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="TR ULUSAL [ RAW / HEVC ]",TRT KURDI RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501756
+http://zeustv.sbs:25461/freetv_test/freetv_test/501756.m3u8
 #EXTINF:-1 tvg-id="TRT.TÜRK.tr" tvg-name="TRT TURK HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="TR ULUSAL [ RAW / HEVC ]",TRT TURK HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501757
+http://zeustv.sbs:25461/freetv_test/freetv_test/501757.m3u8
 #EXTINF:-1 tvg-id="TRT.TÜRK.tr" tvg-name="TRT TURK RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="TR ULUSAL [ RAW / HEVC ]",TRT TURK RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/999010
+http://zeustv.sbs:25461/freetv_test/freetv_test/999010.m3u8
 #EXTINF:-1 tvg-id="TRT.WORLD.HD.tr" tvg-name="TRT WORLD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="TR ULUSAL [ RAW / HEVC ]",TRT WORLD HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501759
+http://zeustv.sbs:25461/freetv_test/freetv_test/501759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="TR ULUSAL [ RAW / HEVC ]",TRT WORLD RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/999773
+http://zeustv.sbs:25461/freetv_test/freetv_test/999773.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="TR ULUSAL [ RAW / HEVC ]",TV8 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501761
+http://zeustv.sbs:25461/freetv_test/freetv_test/501761.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8 HEVC" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR ULUSAL [ RAW / HEVC ]",TV 8 HEVC
-http://zeustv.sbs:25461/freetv_test/freetv_test/501762
+http://zeustv.sbs:25461/freetv_test/freetv_test/501762.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8 5 RAW" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="TR ULUSAL [ RAW / HEVC ]",TV8 5 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501763
+http://zeustv.sbs:25461/freetv_test/freetv_test/501763.m3u8
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="SHOW TV RAW" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="TR ULUSAL [ RAW / HEVC ]",SHOW TV RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/516284
+http://zeustv.sbs:25461/freetv_test/freetv_test/516284.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT 1 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690848
+http://zeustv.sbs:25461/freetv_test/freetv_test/690848.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT 1 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690849
+http://zeustv.sbs:25461/freetv_test/freetv_test/690849.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT 1 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690850
+http://zeustv.sbs:25461/freetv_test/freetv_test/690850.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 2 UHD" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT 2 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690851
+http://zeustv.sbs:25461/freetv_test/freetv_test/690851.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.HD.tr" tvg-name="TRT AVAZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT AVAZ
-http://zeustv.sbs:25461/freetv_test/freetv_test/690852
+http://zeustv.sbs:25461/freetv_test/freetv_test/690852.m3u8
 #EXTINF:-1 tvg-id="TRT.AVAZ.HD.tr" tvg-name="TRT AVAZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT AVAZ
-http://zeustv.sbs:25461/freetv_test/freetv_test/690853
+http://zeustv.sbs:25461/freetv_test/freetv_test/690853.m3u8
 #EXTINF:-1 tvg-id="TRT.WORLD.HD.tr" tvg-name="TRT WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT WORLD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690854
+http://zeustv.sbs:25461/freetv_test/freetv_test/690854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ATV
-http://zeustv.sbs:25461/freetv_test/freetv_test/999774
+http://zeustv.sbs:25461/freetv_test/freetv_test/999774.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV FHD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ATV FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999775
+http://zeustv.sbs:25461/freetv_test/freetv_test/999775.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="ATV SD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ATV SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690857
+http://zeustv.sbs:25461/freetv_test/freetv_test/690857.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="ATV HD" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ATV HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690858
+http://zeustv.sbs:25461/freetv_test/freetv_test/690858.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="ATV HD (H265)" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ATV HD (H265)
-http://zeustv.sbs:25461/freetv_test/freetv_test/690859
+http://zeustv.sbs:25461/freetv_test/freetv_test/690859.m3u8
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="SHOW TV" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOW TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/690860
+http://zeustv.sbs:25461/freetv_test/freetv_test/690860.m3u8
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="SHOW TV FHD" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOW TV FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690861
+http://zeustv.sbs:25461/freetv_test/freetv_test/690861.m3u8
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="SHOW TV HD" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOW TV HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690862
+http://zeustv.sbs:25461/freetv_test/freetv_test/690862.m3u8
 #EXTINF:-1 tvg-id="STAR.TV.HD.tr" tvg-name="STAR TV" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="TR ULUSAL [ FHD / HD / SD ]",STAR TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/690863
+http://zeustv.sbs:25461/freetv_test/freetv_test/690863.m3u8
 #EXTINF:-1 tvg-id="STAR.TV.HD.tr" tvg-name="STAR TV FHD" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="TR ULUSAL [ FHD / HD / SD ]",STAR TV FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690864
+http://zeustv.sbs:25461/freetv_test/freetv_test/690864.m3u8
 #EXTINF:-1 tvg-id="STAR.TV.HD.tr" tvg-name="STAR TV HD" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="TR ULUSAL [ FHD / HD / SD ]",STAR TV HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690865
+http://zeustv.sbs:25461/freetv_test/freetv_test/690865.m3u8
 #EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-name="KANAL D HD (H265)" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL D HD (H265)
-http://zeustv.sbs:25461/freetv_test/freetv_test/690866
+http://zeustv.sbs:25461/freetv_test/freetv_test/690866.m3u8
 #EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-name="KANAL D FHD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL D FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690867
+http://zeustv.sbs:25461/freetv_test/freetv_test/690867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D HD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL D HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999776
+http://zeustv.sbs:25461/freetv_test/freetv_test/999776.m3u8
 #EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-name="KANAL D SD" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL D SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690869
+http://zeustv.sbs:25461/freetv_test/freetv_test/690869.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="TR ULUSAL [ FHD / HD / SD ]",NOW
-http://zeustv.sbs:25461/freetv_test/freetv_test/690870
+http://zeustv.sbs:25461/freetv_test/freetv_test/690870.m3u8
 #EXTINF:-1 tvg-id="FOX.HD.tr" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",FOX
-http://zeustv.sbs:25461/freetv_test/freetv_test/690871
+http://zeustv.sbs:25461/freetv_test/freetv_test/690871.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV 8
-http://zeustv.sbs:25461/freetv_test/freetv_test/690872
+http://zeustv.sbs:25461/freetv_test/freetv_test/690872.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 SD" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV 8 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999777
+http://zeustv.sbs:25461/freetv_test/freetv_test/999777.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV8 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690874
+http://zeustv.sbs:25461/freetv_test/freetv_test/690874.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV8 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690875
+http://zeustv.sbs:25461/freetv_test/freetv_test/690875.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV8 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690876
+http://zeustv.sbs:25461/freetv_test/freetv_test/690876.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8 HD (H265)" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV 8 HD (H265)
-http://zeustv.sbs:25461/freetv_test/freetv_test/690877
+http://zeustv.sbs:25461/freetv_test/freetv_test/690877.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV 8.5
-http://zeustv.sbs:25461/freetv_test/freetv_test/690878
+http://zeustv.sbs:25461/freetv_test/freetv_test/690878.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5 HD" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV 8.5 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690879
+http://zeustv.sbs:25461/freetv_test/freetv_test/690879.m3u8
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5 FHD" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV 8.5 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690880
+http://zeustv.sbs:25461/freetv_test/freetv_test/690880.m3u8
 #EXTINF:-1 tvg-id="TEVE2.HD.tr" tvg-name="TEVE 2" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TEVE 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/690881
+http://zeustv.sbs:25461/freetv_test/freetv_test/690881.m3u8
 #EXTINF:-1 tvg-id="TEVE2.HD.tr" tvg-name="TEVE 2 FHD" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TEVE 2 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690882
+http://zeustv.sbs:25461/freetv_test/freetv_test/690882.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="KANAL 7" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL 7
-http://zeustv.sbs:25461/freetv_test/freetv_test/690883
+http://zeustv.sbs:25461/freetv_test/freetv_test/690883.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="KANAL 7 FHD" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL 7 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690884
+http://zeustv.sbs:25461/freetv_test/freetv_test/690884.m3u8
 #EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="KANAL 7 HD" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL 7 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690885
+http://zeustv.sbs:25461/freetv_test/freetv_test/690885.m3u8
 #EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="BEYAZ TV HD" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="TR ULUSAL [ FHD / HD / SD ]",BEYAZ TV HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690886
+http://zeustv.sbs:25461/freetv_test/freetv_test/690886.m3u8
 #EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="TR ULUSAL [ FHD / HD / SD ]",BEYAZ TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/690887
+http://zeustv.sbs:25461/freetv_test/freetv_test/690887.m3u8
 #EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-name="BEYAZ TV FHD" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="TR ULUSAL [ FHD / HD / SD ]",BEYAZ TV FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690888
+http://zeustv.sbs:25461/freetv_test/freetv_test/690888.m3u8
 #EXTINF:-1 tvg-id="360.HD.tr" tvg-name="360" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="TR ULUSAL [ FHD / HD / SD ]",360
-http://zeustv.sbs:25461/freetv_test/freetv_test/690889
+http://zeustv.sbs:25461/freetv_test/freetv_test/690889.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="TR ULUSAL [ FHD / HD / SD ]",A2
-http://zeustv.sbs:25461/freetv_test/freetv_test/999778
+http://zeustv.sbs:25461/freetv_test/freetv_test/999778.m3u8
 #EXTINF:-1 tvg-id="A2.HD.tr" tvg-name="A2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="TR ULUSAL [ FHD / HD / SD ]",A2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690891
+http://zeustv.sbs:25461/freetv_test/freetv_test/690891.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MELTEM TV" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="TR ULUSAL [ FHD / HD / SD ]",MELTEM TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/690892
+http://zeustv.sbs:25461/freetv_test/freetv_test/690892.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MELTEM TV" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="TR ULUSAL [ FHD / HD / SD ]",MELTEM TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/690893
+http://zeustv.sbs:25461/freetv_test/freetv_test/690893.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ada-tv-tr.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ADA TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/690894
+http://zeustv.sbs:25461/freetv_test/freetv_test/690894.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EURO D" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="TR ULUSAL [ FHD / HD / SD ]",EURO D
-http://zeustv.sbs:25461/freetv_test/freetv_test/690895
+http://zeustv.sbs:25461/freetv_test/freetv_test/690895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EURO D" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="TR ULUSAL [ FHD / HD / SD ]",EURO D
-http://zeustv.sbs:25461/freetv_test/freetv_test/690896
+http://zeustv.sbs:25461/freetv_test/freetv_test/690896.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EURO STAR" tvg-logo="https://i.imgur.com/kb165Ot.png" group-title="TR ULUSAL [ FHD / HD / SD ]",EURO STAR
-http://zeustv.sbs:25461/freetv_test/freetv_test/690897
+http://zeustv.sbs:25461/freetv_test/freetv_test/690897.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TURK" tvg-logo="https://i.imgur.com/fdZpGDj.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOW TURK
-http://zeustv.sbs:25461/freetv_test/freetv_test/690898
+http://zeustv.sbs:25461/freetv_test/freetv_test/690898.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW MAX" tvg-logo="https://i.imgur.com/456FWA7.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOW MAX
-http://zeustv.sbs:25461/freetv_test/freetv_test/690899
+http://zeustv.sbs:25461/freetv_test/freetv_test/690899.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV AVRUPA" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ATV AVRUPA
-http://zeustv.sbs:25461/freetv_test/freetv_test/690900
+http://zeustv.sbs:25461/freetv_test/freetv_test/690900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL 7 AVRUPA
-http://zeustv.sbs:25461/freetv_test/freetv_test/690901
+http://zeustv.sbs:25461/freetv_test/freetv_test/690901.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TV 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/690902
+http://zeustv.sbs:25461/freetv_test/freetv_test/690902.m3u8
 #EXTINF:-1 tvg-id="ATV.HD.tr" tvg-name="A2 TV SD" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="TR ULUSAL [ FHD / HD / SD ]",A2 TV SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690903
+http://zeustv.sbs:25461/freetv_test/freetv_test/690903.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV EUROPA" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ATV EUROPA
-http://zeustv.sbs:25461/freetv_test/freetv_test/690904
+http://zeustv.sbs:25461/freetv_test/freetv_test/690904.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ HD+ SD" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR ULUSAL [ FHD / HD / SD ]",BEYAZ HD+ SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690905
+http://zeustv.sbs:25461/freetv_test/freetv_test/690905.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSTAR" tvg-logo="https://i.imgur.com/kb165Ot.png" group-title="TR ULUSAL [ FHD / HD / SD ]",EUROSTAR
-http://zeustv.sbs:25461/freetv_test/freetv_test/690906
+http://zeustv.sbs:25461/freetv_test/freetv_test/690906.m3u8
 #EXTINF:-1 tvg-id="KANAL.16.tr" tvg-name="KANAL 360 UHD" tvg-logo="https://i.imgur.com/Mr7XPii.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL 360 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690907
+http://zeustv.sbs:25461/freetv_test/freetv_test/690907.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7 EUROPA" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL 7 EUROPA
-http://zeustv.sbs:25461/freetv_test/freetv_test/690908
+http://zeustv.sbs:25461/freetv_test/freetv_test/690908.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV HD (H265)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nowa-tv-pl.png" group-title="TR ULUSAL [ FHD / HD / SD ]",NOW TV HD (H265)
-http://zeustv.sbs:25461/freetv_test/freetv_test/690909
+http://zeustv.sbs:25461/freetv_test/freetv_test/690909.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nowa-tv-pl.png" group-title="TR ULUSAL [ FHD / HD / SD ]",NOW TV FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690910
+http://zeustv.sbs:25461/freetv_test/freetv_test/690910.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nowa-tv-pl.png" group-title="TR ULUSAL [ FHD / HD / SD ]",NOW TV HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690911
+http://zeustv.sbs:25461/freetv_test/freetv_test/690911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nowa-tv-pl.png" group-title="TR ULUSAL [ FHD / HD / SD ]",NOW TV SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690912
+http://zeustv.sbs:25461/freetv_test/freetv_test/690912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW HD (H265)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOW HD (H265)
-http://zeustv.sbs:25461/freetv_test/freetv_test/690913
+http://zeustv.sbs:25461/freetv_test/freetv_test/690913.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TÜRK EUROPA" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOW TÜRK EUROPA
-http://zeustv.sbs:25461/freetv_test/freetv_test/690914
+http://zeustv.sbs:25461/freetv_test/freetv_test/690914.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX" tvg-logo="https://i.imgur.com/456FWA7.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOWMAX
-http://zeustv.sbs:25461/freetv_test/freetv_test/690915
+http://zeustv.sbs:25461/freetv_test/freetv_test/690915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR HD (H265)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/star-int.png" group-title="TR ULUSAL [ FHD / HD / SD ]",STAR HD (H265)
-http://zeustv.sbs:25461/freetv_test/freetv_test/690916
+http://zeustv.sbs:25461/freetv_test/freetv_test/690916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR HD SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/star-int.png" group-title="TR ULUSAL [ FHD / HD / SD ]",STAR HD SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694390
+http://zeustv.sbs:25461/freetv_test/freetv_test/694390.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT EBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT EBA
-http://zeustv.sbs:25461/freetv_test/freetv_test/690918
+http://zeustv.sbs:25461/freetv_test/freetv_test/690918.m3u8
 #EXTINF:-1 tvg-id="TRT.TÜRK.tr" tvg-name="TRT TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT TURK
-http://zeustv.sbs:25461/freetv_test/freetv_test/690919
+http://zeustv.sbs:25461/freetv_test/freetv_test/690919.m3u8
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="TR ULUSAL [ FHD / HD / SD ]",TRT 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/690920
+http://zeustv.sbs:25461/freetv_test/freetv_test/690920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV ALANYA" tvg-logo="https://i.imgur.com/bUwarR0.png" group-title="TR ULUSAL [ FHD / HD / SD ]",ATV ALANYA
-http://zeustv.sbs:25461/freetv_test/freetv_test/999011
+http://zeustv.sbs:25461/freetv_test/freetv_test/999011.m3u8
 #EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-name="KANAL D" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="TR ULUSAL [ FHD / HD / SD ]",KANAL D
-http://zeustv.sbs:25461/freetv_test/freetv_test/690922
+http://zeustv.sbs:25461/freetv_test/freetv_test/690922.m3u8
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="SHOW TV SD" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="TR ULUSAL [ FHD / HD / SD ]",SHOW TV SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/690923
+http://zeustv.sbs:25461/freetv_test/freetv_test/690923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="TR ULUSAL [ FHD / HD / SD ]",TV 8 INT
-http://zeustv.sbs:25461/freetv_test/freetv_test/999012
+http://zeustv.sbs:25461/freetv_test/freetv_test/999012.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Haber | FHD" tvg-logo="https://i.imgur.com/3TUL7eh.png" group-title="TR SPOR+",TR: beIN Sports Haber | FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/691923
+http://zeustv.sbs:25461/freetv_test/freetv_test/691923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR FHD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/trt.spor.png" group-title="TR SPOR+",TR: TRT SPOR FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/691924
+http://zeustv.sbs:25461/freetv_test/freetv_test/691924.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/trt.spor.png" group-title="TR SPOR+",TR: TRT SPOR HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/691925
+http://zeustv.sbs:25461/freetv_test/freetv_test/691925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR FHD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/a.spor.png" group-title="TR SPOR+",TR: A SPOR FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/691926
+http://zeustv.sbs:25461/freetv_test/freetv_test/691926.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/a.spor.png" group-title="TR SPOR+",TR: A SPOR HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/691927
+http://zeustv.sbs:25461/freetv_test/freetv_test/691927.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR" tvg-logo="https://i.ibb.co/Fkvfyy3V/htspor.png" group-title="TR SPOR+",TR: HT SPOR
-http://zeustv.sbs:25461/freetv_test/freetv_test/691928
+http://zeustv.sbs:25461/freetv_test/freetv_test/691928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Smart SPOR 1 RAW" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/smart.spor.1.png" group-title="TR SPOR+",TR: Smart SPOR 1 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/691929
+http://zeustv.sbs:25461/freetv_test/freetv_test/691929.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Smart SPOR 1 HD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/smart.spor.1.png" group-title="TR SPOR+",TR: Smart SPOR 1 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/691930
+http://zeustv.sbs:25461/freetv_test/freetv_test/691930.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Smart SPOR 2 RAW" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/smart.spor.2.png" group-title="TR SPOR+",TR: Smart SPOR 2 RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/691931
+http://zeustv.sbs:25461/freetv_test/freetv_test/691931.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Smart SPOR 2 HD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/smart.spor.2.png" group-title="TR SPOR+",TR: Smart SPOR 2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/691932
+http://zeustv.sbs:25461/freetv_test/freetv_test/691932.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bİ Kanal" tvg-logo="https://i.imgur.com/xkJmT6m.png" group-title="TR SPOR+",TR: Bİ Kanal
-http://zeustv.sbs:25461/freetv_test/freetv_test/691933
+http://zeustv.sbs:25461/freetv_test/freetv_test/691933.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sıfır TV" tvg-logo="https://i.imgur.com/uaU6phb.png" group-title="TR SPOR+",TR: Sıfır TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/691934
+http://zeustv.sbs:25461/freetv_test/freetv_test/691934.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR Yıldız" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/trt.spor.yildiz.png" group-title="TR SPOR+",TR: TRT SPOR Yıldız
-http://zeustv.sbs:25461/freetv_test/freetv_test/691935
+http://zeustv.sbs:25461/freetv_test/freetv_test/691935.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: FB TV" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/fb.tv.png" group-title="TR SPOR+",TR: FB TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/691936
+http://zeustv.sbs:25461/freetv_test/freetv_test/691936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: GS TV" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/gs.tv.png" group-title="TR SPOR+",TR: GS TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/691937
+http://zeustv.sbs:25461/freetv_test/freetv_test/691937.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 1" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/eurosport.1.png" group-title="TR SPOR+",TR: Eurosport 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/691938
+http://zeustv.sbs:25461/freetv_test/freetv_test/691938.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/eurosport.2.png" group-title="TR SPOR+",TR: Eurosport 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/691939
+http://zeustv.sbs:25461/freetv_test/freetv_test/691939.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Redbull TV" tvg-logo="https://i.ibb.co/zHxrvk4/redbull.png" group-title="TR SPOR+",TR: Redbull TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/691940
+http://zeustv.sbs:25461/freetv_test/freetv_test/691940.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EDGE Sport FHD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/edge.sport.png" group-title="TR SPOR+",TR: EDGE Sport FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/691941
+http://zeustv.sbs:25461/freetv_test/freetv_test/691941.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/nba.tv.png" group-title="TR SPOR+",TR: NBA TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/691942
+http://zeustv.sbs:25461/freetv_test/freetv_test/691942.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: T.a.y TV" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/t.a.y.tv.png" group-title="TR SPOR+",TR: T.a.y TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/691943
+http://zeustv.sbs:25461/freetv_test/freetv_test/691943.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/tjk.tv.png" group-title="TR SPOR+",TR: TJK TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/691944
+http://zeustv.sbs:25461/freetv_test/freetv_test/691944.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kickbox" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/kickbox.png" group-title="TR SPOR+",TR: Kickbox
-http://zeustv.sbs:25461/freetv_test/freetv_test/691945
+http://zeustv.sbs:25461/freetv_test/freetv_test/691945.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: WWE Network" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/wwe.png" group-title="TR SPOR+",TR: WWE Network
-http://zeustv.sbs:25461/freetv_test/freetv_test/691946
+http://zeustv.sbs:25461/freetv_test/freetv_test/691946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sportstv" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/sportstv.png" group-title="TR SPOR+",TR: Sportstv
-http://zeustv.sbs:25461/freetv_test/freetv_test/691947
+http://zeustv.sbs:25461/freetv_test/freetv_test/691947.m3u8
 #EXTINF:-1 tvg-id="Bein.Sports.Haber.tr" tvg-name="BEIN SPORTS HABER RAW" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="TR BEİN SPORTS",BEIN SPORTS HABER RAW
-http://zeustv.sbs:25461/freetv_test/freetv_test/501978
+http://zeustv.sbs:25461/freetv_test/freetv_test/501978.m3u8
 #EXTINF:-1 tvg-id="Bein.Sports.Haber.tr" tvg-name="BEIN SPORTS HABER HD" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="TR BEİN SPORTS",BEIN SPORTS HABER HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/501979
+http://zeustv.sbs:25461/freetv_test/freetv_test/501979.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/501980
+http://zeustv.sbs:25461/freetv_test/freetv_test/501980.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FEED" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1 FEED
-http://zeustv.sbs:25461/freetv_test/freetv_test/501981
+http://zeustv.sbs:25461/freetv_test/freetv_test/501981.m3u8
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-name="BEIN SPORTS 4K FEED(UYDU)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4k-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 4K FEED(UYDU)
-http://zeustv.sbs:25461/freetv_test/freetv_test/501982
+http://zeustv.sbs:25461/freetv_test/freetv_test/501982.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8K FEED" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-8-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 8K FEED
-http://zeustv.sbs:25461/freetv_test/freetv_test/501983
+http://zeustv.sbs:25461/freetv_test/freetv_test/501983.m3u8
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-name="BEIN SPORTS 4K FEED(KUTU)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4k-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 4K FEED(KUTU)
-http://zeustv.sbs:25461/freetv_test/freetv_test/696150
+http://zeustv.sbs:25461/freetv_test/freetv_test/696150.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 (720PFEED)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1 (720PFEED)
-http://zeustv.sbs:25461/freetv_test/freetv_test/501985
+http://zeustv.sbs:25461/freetv_test/freetv_test/501985.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 +" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1 +
-http://zeustv.sbs:25461/freetv_test/freetv_test/501986
+http://zeustv.sbs:25461/freetv_test/freetv_test/501986.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 50 FPS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1 50 FPS
-http://zeustv.sbs:25461/freetv_test/freetv_test/501987
+http://zeustv.sbs:25461/freetv_test/freetv_test/501987.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 H265" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1 H265
-http://zeustv.sbs:25461/freetv_test/freetv_test/501988
+http://zeustv.sbs:25461/freetv_test/freetv_test/501988.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD (TURKEY)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1 HD (TURKEY)
-http://zeustv.sbs:25461/freetv_test/freetv_test/501989
+http://zeustv.sbs:25461/freetv_test/freetv_test/501989.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 (720P)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1 (720P)
-http://zeustv.sbs:25461/freetv_test/freetv_test/501990
+http://zeustv.sbs:25461/freetv_test/freetv_test/501990.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 1 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/501991
+http://zeustv.sbs:25461/freetv_test/freetv_test/501991.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1 FEED (720P)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="TR BEİN SPORTS",BEIN 1 FEED (720P)
-http://zeustv.sbs:25461/freetv_test/freetv_test/501992
+http://zeustv.sbs:25461/freetv_test/freetv_test/501992.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1 SD (480P)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="TR BEİN SPORTS",BEIN 1 SD (480P)
-http://zeustv.sbs:25461/freetv_test/freetv_test/501993
+http://zeustv.sbs:25461/freetv_test/freetv_test/501993.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPOTS1 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TR BEİN SPORTS",BEIN SPOTS1 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/501994
+http://zeustv.sbs:25461/freetv_test/freetv_test/501994.m3u8
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-name="BEIN SPORTS 720P FEED" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-4k-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 720P FEED
-http://zeustv.sbs:25461/freetv_test/freetv_test/501995
+http://zeustv.sbs:25461/freetv_test/freetv_test/501995.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1 SD (360P)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="TR BEİN SPORTS",BEIN 1 SD (360P)
-http://zeustv.sbs:25461/freetv_test/freetv_test/501996
+http://zeustv.sbs:25461/freetv_test/freetv_test/501996.m3u8
 #EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-name="BEIN SPORTS 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/501997
+http://zeustv.sbs:25461/freetv_test/freetv_test/501997.m3u8
 #EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/501998
+http://zeustv.sbs:25461/freetv_test/freetv_test/501998.m3u8
 #EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 2 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/501999
+http://zeustv.sbs:25461/freetv_test/freetv_test/501999.m3u8
 #EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-name="BEIN SPORTS 2 UHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 2 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502000
+http://zeustv.sbs:25461/freetv_test/freetv_test/502000.m3u8
 #EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-name="BEIN SPORTS 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/502001
+http://zeustv.sbs:25461/freetv_test/freetv_test/502001.m3u8
 #EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 3 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502002
+http://zeustv.sbs:25461/freetv_test/freetv_test/502002.m3u8
 #EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-name="BEIN SPORTS 3 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 3 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502003
+http://zeustv.sbs:25461/freetv_test/freetv_test/502003.m3u8
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-name="BEIN SPORTS FEED (OZEL FEED YAYIN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-4k-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS FEED (OZEL FEED YAYIN)
-http://zeustv.sbs:25461/freetv_test/freetv_test/502004
+http://zeustv.sbs:25461/freetv_test/freetv_test/502004.m3u8
 #EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-name="BEIN SPORTS 3 UHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 3 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502005
+http://zeustv.sbs:25461/freetv_test/freetv_test/502005.m3u8
 #EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-name="BEIN SPORTS 4 UHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 4 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502006
+http://zeustv.sbs:25461/freetv_test/freetv_test/502006.m3u8
 #EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-name="BEIN SPORTS 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/516388
+http://zeustv.sbs:25461/freetv_test/freetv_test/516388.m3u8
 #EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 4 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502007
+http://zeustv.sbs:25461/freetv_test/freetv_test/502007.m3u8
 #EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 4 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502008
+http://zeustv.sbs:25461/freetv_test/freetv_test/502008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 5
-http://zeustv.sbs:25461/freetv_test/freetv_test/502009
+http://zeustv.sbs:25461/freetv_test/freetv_test/502009.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 5 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502010
+http://zeustv.sbs:25461/freetv_test/freetv_test/502010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 5 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502011
+http://zeustv.sbs:25461/freetv_test/freetv_test/502011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS 5 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502012
+http://zeustv.sbs:25461/freetv_test/freetv_test/502012.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-hd-max_1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS MAX 1 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999779
+http://zeustv.sbs:25461/freetv_test/freetv_test/999779.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-hd-max_1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS MAX 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/691954
+http://zeustv.sbs:25461/freetv_test/freetv_test/691954.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-hd-max_1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS MAX 1 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502015
+http://zeustv.sbs:25461/freetv_test/freetv_test/502015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-hd-max_1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS MAX 2 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502016
+http://zeustv.sbs:25461/freetv_test/freetv_test/502016.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-hd-max_1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS MAX 2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502017
+http://zeustv.sbs:25461/freetv_test/freetv_test/502017.m3u8
 #EXTINF:-1 tvg-id="Bein.Sports.Haber.tr" tvg-name="BEIN SPORTS HABER" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="TR BEİN SPORTS",BEIN SPORTS HABER
-http://zeustv.sbs:25461/freetv_test/freetv_test/502018
+http://zeustv.sbs:25461/freetv_test/freetv_test/502018.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/stacked/bein-sports-hd-max_1-int.png" group-title="TR BEİN SPORTS",BEIN SPORTS MAX 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/502019
+http://zeustv.sbs:25461/freetv_test/freetv_test/502019.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 SD" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN SPOR 1 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502020
+http://zeustv.sbs:25461/freetv_test/freetv_test/502020.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN SPORTS 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/502021
+http://zeustv.sbs:25461/freetv_test/freetv_test/502021.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: EXXEN TV" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",4K TR: EXXEN TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/690925
+http://zeustv.sbs:25461/freetv_test/freetv_test/690925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 1" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/502022
+http://zeustv.sbs:25461/freetv_test/freetv_test/502022.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 1 FEED" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 1 FEED
-http://zeustv.sbs:25461/freetv_test/freetv_test/502023
+http://zeustv.sbs:25461/freetv_test/freetv_test/502023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 1 720P" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 1 720P
-http://zeustv.sbs:25461/freetv_test/freetv_test/516401
+http://zeustv.sbs:25461/freetv_test/freetv_test/516401.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 1 HD" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 1 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/695946
+http://zeustv.sbs:25461/freetv_test/freetv_test/695946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 2 HD" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502025
+http://zeustv.sbs:25461/freetv_test/freetv_test/502025.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 2 UHD" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 2 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502026
+http://zeustv.sbs:25461/freetv_test/freetv_test/502026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 3" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/502027
+http://zeustv.sbs:25461/freetv_test/freetv_test/502027.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 4" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/502028
+http://zeustv.sbs:25461/freetv_test/freetv_test/502028.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 5" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 5
-http://zeustv.sbs:25461/freetv_test/freetv_test/502029
+http://zeustv.sbs:25461/freetv_test/freetv_test/502029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 6" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 6
-http://zeustv.sbs:25461/freetv_test/freetv_test/502030
+http://zeustv.sbs:25461/freetv_test/freetv_test/502030.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 7" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 7
-http://zeustv.sbs:25461/freetv_test/freetv_test/502031
+http://zeustv.sbs:25461/freetv_test/freetv_test/502031.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV SPOR 8" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV SPOR 8
-http://zeustv.sbs:25461/freetv_test/freetv_test/502032
+http://zeustv.sbs:25461/freetv_test/freetv_test/502032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 2" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN SPORTS 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/999013
+http://zeustv.sbs:25461/freetv_test/freetv_test/999013.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXXEN TV" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR EXXEN",EXXEN TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/999014
+http://zeustv.sbs:25461/freetv_test/freetv_test/999014.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: S SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR S SPORT",4K TR: S SPORT
-http://zeustv.sbs:25461/freetv_test/freetv_test/999780
+http://zeustv.sbs:25461/freetv_test/freetv_test/999780.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S-SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR S SPORT",S-SPORT HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999021
+http://zeustv.sbs:25461/freetv_test/freetv_test/999021.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S-SPORTS 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR S SPORT",S-SPORTS 1 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999031
+http://zeustv.sbs:25461/freetv_test/freetv_test/999031.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S-SPORT 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR S SPORT",S-SPORT 1 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999015
+http://zeustv.sbs:25461/freetv_test/freetv_test/999015.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-name="S SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR S SPORT",S SPORT
-http://zeustv.sbs:25461/freetv_test/freetv_test/999020
+http://zeustv.sbs:25461/freetv_test/freetv_test/999020.m3u8
 #EXTINF:-1 tvg-id="SSport.2.tr" tvg-name="4K TR: S SPORT 2" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="TR S SPORT",4K TR: S SPORT 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/999016
+http://zeustv.sbs:25461/freetv_test/freetv_test/999016.m3u8
 #EXTINF:-1 tvg-id="SSport.2.tr" tvg-name="S-SPORT 2 HD" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="TR S SPORT",S-SPORT 2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999018
+http://zeustv.sbs:25461/freetv_test/freetv_test/999018.m3u8
 #EXTINF:-1 tvg-id="SSport.2.tr" tvg-name="S-SPORTS 2 SD" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="TR S SPORT",S-SPORTS 2 SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999030
+http://zeustv.sbs:25461/freetv_test/freetv_test/999030.m3u8
 #EXTINF:-1 tvg-id="SSport.2.tr" tvg-name="S-SPORT 2 UHD" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="TR S SPORT",S-SPORT 2 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999019
+http://zeustv.sbs:25461/freetv_test/freetv_test/999019.m3u8
 #EXTINF:-1 tvg-id="SSport.2.tr" tvg-name="S SPORT 2" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="TR S SPORT",S SPORT 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/999017
+http://zeustv.sbs:25461/freetv_test/freetv_test/999017.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S-SPORT PLUS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-plus-tr.png" group-title="TR S SPORT",S-SPORT PLUS FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999022
+http://zeustv.sbs:25461/freetv_test/freetv_test/999022.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S-SPORT+1 MAC SAATI" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR S SPORT",S-SPORT+1 MAC SAATI
-http://zeustv.sbs:25461/freetv_test/freetv_test/999023
+http://zeustv.sbs:25461/freetv_test/freetv_test/999023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S-SPORT+2 MAC SAATI" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR S SPORT",S-SPORT+2 MAC SAATI
-http://zeustv.sbs:25461/freetv_test/freetv_test/999024
+http://zeustv.sbs:25461/freetv_test/freetv_test/999024.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT+3 MAC SAATI" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR S SPORT",S SPORT+3 MAC SAATI
-http://zeustv.sbs:25461/freetv_test/freetv_test/999025
+http://zeustv.sbs:25461/freetv_test/freetv_test/999025.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT+4 MAC SAATI" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR S SPORT",S SPORT+4 MAC SAATI
-http://zeustv.sbs:25461/freetv_test/freetv_test/999781
+http://zeustv.sbs:25461/freetv_test/freetv_test/999781.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT+5 MAC SAATI" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR S SPORT",S SPORT+5 MAC SAATI
-http://zeustv.sbs:25461/freetv_test/freetv_test/999026
+http://zeustv.sbs:25461/freetv_test/freetv_test/999026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S-SPORT PLUS 1 MACZAMANI" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR S SPORT",S-SPORT PLUS 1 MACZAMANI
-http://zeustv.sbs:25461/freetv_test/freetv_test/999027
+http://zeustv.sbs:25461/freetv_test/freetv_test/999027.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S-SPORT PLUS 2 MACZAMANI" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR S SPORT",S-SPORT PLUS 2 MACZAMANI
-http://zeustv.sbs:25461/freetv_test/freetv_test/999028
+http://zeustv.sbs:25461/freetv_test/freetv_test/999028.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="S-SPORT PLUS 3 MACZAMANI" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="TR S SPORT",S-SPORT PLUS 3 MACZAMANI
-http://zeustv.sbs:25461/freetv_test/freetv_test/999029
+http://zeustv.sbs:25461/freetv_test/freetv_test/999029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.tivibuspor/t%C4%B0v%C4%B0bu.spor.png" group-title="TR TİVİBU",TR: Tivibu SPOR
-http://zeustv.sbs:25461/freetv_test/freetv_test/694392
+http://zeustv.sbs:25461/freetv_test/freetv_test/694392.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR 1 FHD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.tivibuspor/t%C4%B0v%C4%B0bu.spor.1.png" group-title="TR TİVİBU",TR: Tivibu SPOR 1 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694393
+http://zeustv.sbs:25461/freetv_test/freetv_test/694393.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR 1 HD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.tivibuspor/t%C4%B0v%C4%B0bu.spor.1.png" group-title="TR TİVİBU",TR: Tivibu SPOR 1 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694394
+http://zeustv.sbs:25461/freetv_test/freetv_test/694394.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR 2 FHD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.tivibuspor/t%C4%B0v%C4%B0bu.spor.2.png" group-title="TR TİVİBU",TR: Tivibu SPOR 2 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694395
+http://zeustv.sbs:25461/freetv_test/freetv_test/694395.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR 3 FHD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.tivibuspor/t%C4%B0v%C4%B0bu.spor.3.png" group-title="TR TİVİBU",TR: Tivibu SPOR 3 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694396
+http://zeustv.sbs:25461/freetv_test/freetv_test/694396.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu SPOR 4 FHD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.tivibuspor/t%C4%B0v%C4%B0bu.spor.4.png" group-title="TR TİVİBU",TR: Tivibu SPOR 4 FHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694397
+http://zeustv.sbs:25461/freetv_test/freetv_test/694397.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/502057
+http://zeustv.sbs:25461/freetv_test/freetv_test/502057.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 1 UHD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 1 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502058
+http://zeustv.sbs:25461/freetv_test/freetv_test/502058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 1 720P" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 1 720P
-http://zeustv.sbs:25461/freetv_test/freetv_test/694398
+http://zeustv.sbs:25461/freetv_test/freetv_test/694398.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/502060
+http://zeustv.sbs:25461/freetv_test/freetv_test/502060.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 2 UHD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 2 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/999032
+http://zeustv.sbs:25461/freetv_test/freetv_test/999032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 2 HD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/696152
+http://zeustv.sbs:25461/freetv_test/freetv_test/696152.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/502063
+http://zeustv.sbs:25461/freetv_test/freetv_test/502063.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 3 HD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 3 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502064
+http://zeustv.sbs:25461/freetv_test/freetv_test/502064.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/502065
+http://zeustv.sbs:25461/freetv_test/freetv_test/502065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 UHD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 4 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502066
+http://zeustv.sbs:25461/freetv_test/freetv_test/502066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 4 HD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 4 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694399
+http://zeustv.sbs:25461/freetv_test/freetv_test/694399.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 5
-http://zeustv.sbs:25461/freetv_test/freetv_test/502068
+http://zeustv.sbs:25461/freetv_test/freetv_test/502068.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 5 UHD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 5 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/696153
+http://zeustv.sbs:25461/freetv_test/freetv_test/696153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 5 HD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 5 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502070
+http://zeustv.sbs:25461/freetv_test/freetv_test/502070.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 6
-http://zeustv.sbs:25461/freetv_test/freetv_test/502071
+http://zeustv.sbs:25461/freetv_test/freetv_test/502071.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 6 HD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 6 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502072
+http://zeustv.sbs:25461/freetv_test/freetv_test/502072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 6 UHD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 6 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/688971
+http://zeustv.sbs:25461/freetv_test/freetv_test/688971.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR
-http://zeustv.sbs:25461/freetv_test/freetv_test/688972
+http://zeustv.sbs:25461/freetv_test/freetv_test/688972.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR HD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/696549
+http://zeustv.sbs:25461/freetv_test/freetv_test/696549.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR SD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR SD
-http://zeustv.sbs:25461/freetv_test/freetv_test/502075
+http://zeustv.sbs:25461/freetv_test/freetv_test/502075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TABII SPOR 3 UHD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="TR TABİİ SPOR",TABII SPOR 3 UHD
-http://zeustv.sbs:25461/freetv_test/freetv_test/516414
+http://zeustv.sbs:25461/freetv_test/freetv_test/516414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQa1pEGji6JlWaVcow3KPabBKnI.jpg" group-title="TR  PREMİUM SİNEMA",TR: Sinema 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694400
+http://zeustv.sbs:25461/freetv_test/freetv_test/694400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg" group-title="TR  PREMİUM SİNEMA",TR: Sinema 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694401
+http://zeustv.sbs:25461/freetv_test/freetv_test/694401.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJ6qp6LAI3U9SvWi8LTJtBSNqX.jpg" group-title="TR  PREMİUM SİNEMA",TR: Sinema 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694402
+http://zeustv.sbs:25461/freetv_test/freetv_test/694402.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHu9CSmkjgUlwTPFDDphezzg0qi.jpg" group-title="TR  PREMİUM SİNEMA",TR: Sinema 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/694403
+http://zeustv.sbs:25461/freetv_test/freetv_test/694403.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg" group-title="TR  PREMİUM SİNEMA",TR: Sinema 5
-http://zeustv.sbs:25461/freetv_test/freetv_test/694404
+http://zeustv.sbs:25461/freetv_test/freetv_test/694404.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYvlK73gKsJAaGjndyyiaZerEFb.jpg" group-title="TR  PREMİUM SİNEMA",TR: Sinema 6
-http://zeustv.sbs:25461/freetv_test/freetv_test/694405
+http://zeustv.sbs:25461/freetv_test/freetv_test/694405.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIjIEZ8ug2pLGbV2JiKytZyj2NG.jpg" group-title="TR  PREMİUM SİNEMA",TR: Sinema 7
-http://zeustv.sbs:25461/freetv_test/freetv_test/694406
+http://zeustv.sbs:25461/freetv_test/freetv_test/694406.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSVJI9P5UmvOLZVTH8sAtlgxsgy.jpg" group-title="TR  PREMİUM SİNEMA",TR: Sinema 8
-http://zeustv.sbs:25461/freetv_test/freetv_test/694407
+http://zeustv.sbs:25461/freetv_test/freetv_test/694407.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.series.1.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Series 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694408
+http://zeustv.sbs:25461/freetv_test/freetv_test/694408.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.series.2.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Series 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694409
+http://zeustv.sbs:25461/freetv_test/freetv_test/694409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.series.3.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Series 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694410
+http://zeustv.sbs:25461/freetv_test/freetv_test/694410.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.series.4.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Series 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/694411
+http://zeustv.sbs:25461/freetv_test/freetv_test/694411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action" tvg-logo="https://i.imgur.com/O0ld5Gl.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Movies Action
-http://zeustv.sbs:25461/freetv_test/freetv_test/694412
+http://zeustv.sbs:25461/freetv_test/freetv_test/694412.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.movies.premiere.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Movies Premiere
-http://zeustv.sbs:25461/freetv_test/freetv_test/694413
+http://zeustv.sbs:25461/freetv_test/freetv_test/694413.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.movies.premiere.2.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Movies Premiere 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694414
+http://zeustv.sbs:25461/freetv_test/freetv_test/694414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Stars" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.movies.stars.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Movies Stars
-http://zeustv.sbs:25461/freetv_test/freetv_test/694415
+http://zeustv.sbs:25461/freetv_test/freetv_test/694415.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies TURK" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.movies.turk.png" group-title="TR  SİNEMA PLATFORM",TR: beIN Movies TURK
-http://zeustv.sbs:25461/freetv_test/freetv_test/694416
+http://zeustv.sbs:25461/freetv_test/freetv_test/694416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dizismart MAX" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/dizismart.max.png" group-title="TR  SİNEMA PLATFORM",TR: Dizismart MAX
-http://zeustv.sbs:25461/freetv_test/freetv_test/694417
+http://zeustv.sbs:25461/freetv_test/freetv_test/694417.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/moviesmart.classic.png" group-title="TR  SİNEMA PLATFORM",TR: Moviesmart Classic
-http://zeustv.sbs:25461/freetv_test/freetv_test/694418
+http://zeustv.sbs:25461/freetv_test/freetv_test/694418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart TÜRK" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/moviesmart.t%C3%BCrk.png" group-title="TR  SİNEMA PLATFORM",TR: Moviesmart TÜRK
-http://zeustv.sbs:25461/freetv_test/freetv_test/694419
+http://zeustv.sbs:25461/freetv_test/freetv_test/694419.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1001" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.1001.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV 1001
-http://zeustv.sbs:25461/freetv_test/freetv_test/694420
+http://zeustv.sbs:25461/freetv_test/freetv_test/694420.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1002" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.1002.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV 1002
-http://zeustv.sbs:25461/freetv_test/freetv_test/694421
+http://zeustv.sbs:25461/freetv_test/freetv_test/694421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV
-http://zeustv.sbs:25461/freetv_test/freetv_test/694422
+http://zeustv.sbs:25461/freetv_test/freetv_test/694422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.2.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694423
+http://zeustv.sbs:25461/freetv_test/freetv_test/694423.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV AİLE" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.aile.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV AİLE
-http://zeustv.sbs:25461/freetv_test/freetv_test/694424
+http://zeustv.sbs:25461/freetv_test/freetv_test/694424.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV AİLE 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.aile.2.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV AİLE 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694425
+http://zeustv.sbs:25461/freetv_test/freetv_test/694425.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aksiyon" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.aksiyon.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV Aksiyon
-http://zeustv.sbs:25461/freetv_test/freetv_test/694426
+http://zeustv.sbs:25461/freetv_test/freetv_test/694426.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aksiyon 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.aksiyon.2.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV Aksiyon 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694427
+http://zeustv.sbs:25461/freetv_test/freetv_test/694427.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Komedi" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.komedi.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV Komedi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694428
+http://zeustv.sbs:25461/freetv_test/freetv_test/694428.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.yerli.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV Yerli
-http://zeustv.sbs:25461/freetv_test/freetv_test/694429
+http://zeustv.sbs:25461/freetv_test/freetv_test/694429.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.yerli.2.png" group-title="TR  SİNEMA PLATFORM",TR: Sinema TV Yerli 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694430
+http://zeustv.sbs:25461/freetv_test/freetv_test/694430.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: CİNE 6" tvg-logo="https://i.imgur.com/nce0XhX.png" group-title="TR  SİNEMA PLATFORM",TR: CİNE 6
-http://zeustv.sbs:25461/freetv_test/freetv_test/694431
+http://zeustv.sbs:25461/freetv_test/freetv_test/694431.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN BOX Offıce 1" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.box.office.1.png" group-title="TR  SİNEMA PLATFORM",TR: beIN BOX Offıce 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694432
+http://zeustv.sbs:25461/freetv_test/freetv_test/694432.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN BOX Offıce 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.box.office.2.png" group-title="TR  SİNEMA PLATFORM",TR: beIN BOX Offıce 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694433
+http://zeustv.sbs:25461/freetv_test/freetv_test/694433.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN BOX Offıce 3" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/bein.box.office.3.png" group-title="TR  SİNEMA PLATFORM",TR: beIN BOX Offıce 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694434
+http://zeustv.sbs:25461/freetv_test/freetv_test/694434.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EPİC Drama" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/epic.drama.png" group-title="TR  SİNEMA PLATFORM",TR: EPİC Drama
-http://zeustv.sbs:25461/freetv_test/freetv_test/694435
+http://zeustv.sbs:25461/freetv_test/freetv_test/694435.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: FX" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/fx.png" group-title="TR  SİNEMA PLATFORM",TR: FX
-http://zeustv.sbs:25461/freetv_test/freetv_test/694436
+http://zeustv.sbs:25461/freetv_test/freetv_test/694436.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TİVİ 6" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.yerel/t%C4%B0v%C4%B0.6.png" group-title="TR  SİNEMA PLATFORM",TR: TİVİ 6
-http://zeustv.sbs:25461/freetv_test/freetv_test/694437
+http://zeustv.sbs:25461/freetv_test/freetv_test/694437.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: James Bond" tvg-logo="https://image.tmdb.org/t/p/w500/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg" group-title="TR SİNEMA SERİLERİ",TR: James Bond
-http://zeustv.sbs:25461/freetv_test/freetv_test/694438
+http://zeustv.sbs:25461/freetv_test/freetv_test/694438.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Untold" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjvxSGfghSNTgfVDf3nQ4sJCVJX.jpg" group-title="TR SİNEMA SERİLERİ",TR: Untold
-http://zeustv.sbs:25461/freetv_test/freetv_test/694439
+http://zeustv.sbs:25461/freetv_test/freetv_test/694439.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Forky Asks a Question" tvg-logo="https://image.tmdb.org/t/p/w500/mFTL66WdrFRsqrAwK7SByESxQek.jpg" group-title="TR SİNEMA SERİLERİ",TR: Forky Asks a Question
-http://zeustv.sbs:25461/freetv_test/freetv_test/694440
+http://zeustv.sbs:25461/freetv_test/freetv_test/694440.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Hızlı ve Öfkeli" tvg-logo="https://image.tmdb.org/t/p/w500/aibYB6OKlb36RaHjDLRjhlfHEdN.jpg" group-title="TR SİNEMA SERİLERİ",TR: Hızlı ve Öfkeli
-http://zeustv.sbs:25461/freetv_test/freetv_test/694441
+http://zeustv.sbs:25461/freetv_test/freetv_test/694441.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Siccîn" tvg-logo="https://image.tmdb.org/t/p/w500/bEnfkgqmqAqx3CaFFPlzfOaFauc.jpg" group-title="TR SİNEMA SERİLERİ",TR: Siccîn
-http://zeustv.sbs:25461/freetv_test/freetv_test/694442
+http://zeustv.sbs:25461/freetv_test/freetv_test/694442.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Hababam Sınıfı" tvg-logo="https://image.tmdb.org/t/p/w500/yyXK66pEql55NnVlIZ8I7mzAVM4.jpg" group-title="TR SİNEMA SERİLERİ",TR: Hababam Sınıfı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694443
+http://zeustv.sbs:25461/freetv_test/freetv_test/694443.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Harry Potter" tvg-logo="https://image.tmdb.org/t/p/w500/bnOxure2AqAatT9S479lZaKSaaM.jpg" group-title="TR SİNEMA SERİLERİ",TR: Harry Potter
-http://zeustv.sbs:25461/freetv_test/freetv_test/694444
+http://zeustv.sbs:25461/freetv_test/freetv_test/694444.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Hep Yek" tvg-logo="https://image.tmdb.org/t/p/w500/o4N7zEymfPKLXgGdRwRBE2vgnIA.jpg" group-title="TR SİNEMA SERİLERİ",TR: Hep Yek
-http://zeustv.sbs:25461/freetv_test/freetv_test/694445
+http://zeustv.sbs:25461/freetv_test/freetv_test/694445.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yıldız Savaşları" tvg-logo="https://image.tmdb.org/t/p/w500/pWVLFh4OuejTpUaDQbB1C4zoS2p.jpg" group-title="TR SİNEMA SERİLERİ",TR: Yıldız Savaşları
-http://zeustv.sbs:25461/freetv_test/freetv_test/694446
+http://zeustv.sbs:25461/freetv_test/freetv_test/694446.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Elm Sokağında Kabus" tvg-logo="https://image.tmdb.org/t/p/w500/6ihRddI1Pg4wHFhkZwI9mERRrMd.jpg" group-title="TR SİNEMA SERİLERİ",TR: Elm Sokağında Kabus
-http://zeustv.sbs:25461/freetv_test/freetv_test/694447
+http://zeustv.sbs:25461/freetv_test/freetv_test/694447.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Görevimiz Tehlike" tvg-logo="https://image.tmdb.org/t/p/w500/geEjCGfdmRAA1skBPwojcdvnZ8A.jpg" group-title="TR SİNEMA SERİLERİ",TR: Görevimiz Tehlike
-http://zeustv.sbs:25461/freetv_test/freetv_test/694448
+http://zeustv.sbs:25461/freetv_test/freetv_test/694448.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Jurassic Park" tvg-logo="https://image.tmdb.org/t/p/w500/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg" group-title="TR SİNEMA SERİLERİ",TR: Jurassic Park
-http://zeustv.sbs:25461/freetv_test/freetv_test/694449
+http://zeustv.sbs:25461/freetv_test/freetv_test/694449.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Keskin Nişancı" tvg-logo="https://image.tmdb.org/t/p/w500/2NbhXWB5SKRCdMqEpMz9XieQqxU.jpg" group-title="TR SİNEMA SERİLERİ",TR: Keskin Nişancı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694450
+http://zeustv.sbs:25461/freetv_test/freetv_test/694450.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Polis Akademisi" tvg-logo="https://image.tmdb.org/t/p/w500/q6npkfLX1jryO4a3GI63WJW9TrT.jpg" group-title="TR SİNEMA SERİLERİ",TR: Polis Akademisi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694451
+http://zeustv.sbs:25461/freetv_test/freetv_test/694451.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Recep İvedik" tvg-logo="https://image.tmdb.org/t/p/w500/5FbX1pRicDB8j1v1OVvyqkioxhr.jpg" group-title="TR SİNEMA SERİLERİ",TR: Recep İvedik
-http://zeustv.sbs:25461/freetv_test/freetv_test/694452
+http://zeustv.sbs:25461/freetv_test/freetv_test/694452.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Testere" tvg-logo="https://image.tmdb.org/t/p/w500/w0zPElyuA5q2kjdfa2FdNYeS5Io.jpg" group-title="TR SİNEMA SERİLERİ",TR: Testere
-http://zeustv.sbs:25461/freetv_test/freetv_test/694453
+http://zeustv.sbs:25461/freetv_test/freetv_test/694453.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yeraltı Canavarı" tvg-logo="https://image.tmdb.org/t/p/w500/dvNb7S2jXGPfaAZFextA5ojvwrS.jpg" group-title="TR SİNEMA SERİLERİ",TR: Yeraltı Canavarı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694454
+http://zeustv.sbs:25461/freetv_test/freetv_test/694454.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Çakallarla Dans" tvg-logo="https://image.tmdb.org/t/p/w500/zyo1iI4V9EYbCGBcL5qUCJWEj9p.jpg" group-title="TR SİNEMA SERİLERİ",TR: Çakallarla Dans
-http://zeustv.sbs:25461/freetv_test/freetv_test/694455
+http://zeustv.sbs:25461/freetv_test/freetv_test/694455.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Çığlık" tvg-logo="https://image.tmdb.org/t/p/w500/p3EjClFy20jjT0u06dzBs4lvvhi.jpg" group-title="TR SİNEMA SERİLERİ",TR: Çığlık
-http://zeustv.sbs:25461/freetv_test/freetv_test/694456
+http://zeustv.sbs:25461/freetv_test/freetv_test/694456.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dabbe" tvg-logo="https://image.tmdb.org/t/p/w500/s0ZnffIMmxHXIByMG5MLfux0AP4.jpg" group-title="TR SİNEMA SERİLERİ",TR: Dabbe
-http://zeustv.sbs:25461/freetv_test/freetv_test/694457
+http://zeustv.sbs:25461/freetv_test/freetv_test/694457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kara Murat" tvg-logo="https://image.tmdb.org/t/p/w500/3NkfzEdGjOD19qc7mpMTTVZtLMv.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kara Murat
-http://zeustv.sbs:25461/freetv_test/freetv_test/694458
+http://zeustv.sbs:25461/freetv_test/freetv_test/694458.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Malkoçoğlu" tvg-logo="https://image.tmdb.org/t/p/w500/h2BzYgmzPoYFfinf9uBqId9Vfne.jpg" group-title="TR SİNEMA SERİLERİ",TR: Malkoçoğlu
-http://zeustv.sbs:25461/freetv_test/freetv_test/694459
+http://zeustv.sbs:25461/freetv_test/freetv_test/694459.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Oluversin Gari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QKmXi5HUxiH4e3PWb2Quh1PwIB.jpg" group-title="TR SİNEMA SERİLERİ",TR: Oluversin Gari
-http://zeustv.sbs:25461/freetv_test/freetv_test/694460
+http://zeustv.sbs:25461/freetv_test/freetv_test/694460.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Rocky" tvg-logo="https://image.tmdb.org/t/p/w500/ou5cBNEpISw7TVcxcFK1Eaa1HQE.jpg" group-title="TR SİNEMA SERİLERİ",TR: Rocky
-http://zeustv.sbs:25461/freetv_test/freetv_test/694461
+http://zeustv.sbs:25461/freetv_test/freetv_test/694461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ruhlar Bölgesi" tvg-logo="https://image.tmdb.org/t/p/w500/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg" group-title="TR SİNEMA SERİLERİ",TR: Ruhlar Bölgesi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694462
+http://zeustv.sbs:25461/freetv_test/freetv_test/694462.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Son Durak" tvg-logo="https://image.tmdb.org/t/p/w500/nr4MXTXK2in9gxYhFMQGni66KRJ.jpg" group-title="TR SİNEMA SERİLERİ",TR: Son Durak
-http://zeustv.sbs:25461/freetv_test/freetv_test/694463
+http://zeustv.sbs:25461/freetv_test/freetv_test/694463.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tinker Bell" tvg-logo="https://image.tmdb.org/t/p/w500/wzt5eeX5YeJ4CLi165id4dKEgfW.jpg" group-title="TR SİNEMA SERİLERİ",TR: Tinker Bell
-http://zeustv.sbs:25461/freetv_test/freetv_test/694464
+http://zeustv.sbs:25461/freetv_test/freetv_test/694464.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: X-Men" tvg-logo="https://image.tmdb.org/t/p/w500/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg" group-title="TR SİNEMA SERİLERİ",TR: X-Men
-http://zeustv.sbs:25461/freetv_test/freetv_test/694465
+http://zeustv.sbs:25461/freetv_test/freetv_test/694465.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Üç Harfliler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTb9UDyxt3yKL2IooJbbLAAQGgD.jpg" group-title="TR SİNEMA SERİLERİ",TR: Üç Harfliler
-http://zeustv.sbs:25461/freetv_test/freetv_test/694466
+http://zeustv.sbs:25461/freetv_test/freetv_test/694466.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Akrep Kral" tvg-logo="https://image.tmdb.org/t/p/w500/qFVW76HRCJFRtTha1vZO1tjYVQ1.jpg" group-title="TR SİNEMA SERİLERİ",TR: Akrep Kral
-http://zeustv.sbs:25461/freetv_test/freetv_test/694467
+http://zeustv.sbs:25461/freetv_test/freetv_test/694467.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bourne" tvg-logo="https://image.tmdb.org/t/p/w500/r74T5OOHEtpxpIHmRY3zI6wh5eW.jpg" group-title="TR SİNEMA SERİLERİ",TR: Bourne
-http://zeustv.sbs:25461/freetv_test/freetv_test/694468
+http://zeustv.sbs:25461/freetv_test/freetv_test/694468.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Hailey Dean Mysteries" tvg-logo="https://image.tmdb.org/t/p/w500/42A2PdGgxcwbHtooiGlkfQMJfDB.jpg" group-title="TR SİNEMA SERİLERİ",TR: Hailey Dean Mysteries
-http://zeustv.sbs:25461/freetv_test/freetv_test/694469
+http://zeustv.sbs:25461/freetv_test/freetv_test/694469.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Karate Kid" tvg-logo="https://image.tmdb.org/t/p/w500/o6h2F0C5eZOy50Q76fNYzc9mvvw.jpg" group-title="TR SİNEMA SERİLERİ",TR: Karate Kid
-http://zeustv.sbs:25461/freetv_test/freetv_test/694470
+http://zeustv.sbs:25461/freetv_test/freetv_test/694470.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Korku Kapanı" tvg-logo="https://image.tmdb.org/t/p/w500/dtfQY5ZxvdHNG4HqNDy0ifwk1q6.jpg" group-title="TR SİNEMA SERİLERİ",TR: Korku Kapanı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694471
+http://zeustv.sbs:25461/freetv_test/freetv_test/694471.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Korkunç Bir Film" tvg-logo="https://image.tmdb.org/t/p/w500/8ds74cRhyAza3WcDVT8rZycwSC9.jpg" group-title="TR SİNEMA SERİLERİ",TR: Korkunç Bir Film
-http://zeustv.sbs:25461/freetv_test/freetv_test/694472
+http://zeustv.sbs:25461/freetv_test/freetv_test/694472.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Mahluklar" tvg-logo="https://image.tmdb.org/t/p/w500/6DTwPOGG1FVebElsUqH9UAJg2Qw.jpg" group-title="TR SİNEMA SERİLERİ",TR: Mahluklar
-http://zeustv.sbs:25461/freetv_test/freetv_test/694473
+http://zeustv.sbs:25461/freetv_test/freetv_test/694473.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Oyuncak Hikayesi" tvg-logo="https://image.tmdb.org/t/p/w500/rki5qLuwb0xnnE9seehxO9TlLhW.jpg" group-title="TR SİNEMA SERİLERİ",TR: Oyuncak Hikayesi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694474
+http://zeustv.sbs:25461/freetv_test/freetv_test/694474.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Paranormal Activity" tvg-logo="https://image.tmdb.org/t/p/w500/lYXAMmm9XlYmj5Dr4O9diLQVCJS.jpg" group-title="TR SİNEMA SERİLERİ",TR: Paranormal Activity
-http://zeustv.sbs:25461/freetv_test/freetv_test/694475
+http://zeustv.sbs:25461/freetv_test/freetv_test/694475.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Turist Ömer" tvg-logo="https://image.tmdb.org/t/p/w500/5iRA4P4OL5lug4Amo8tCcWfFyTZ.jpg" group-title="TR SİNEMA SERİLERİ",TR: Turist Ömer
-http://zeustv.sbs:25461/freetv_test/freetv_test/694476
+http://zeustv.sbs:25461/freetv_test/freetv_test/694476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Uzay Yolu (Orijinal)" tvg-logo="https://image.tmdb.org/t/p/w500/vNrbrsHOpXS3whk9DLuBNcjJy1s.jpg" group-title="TR SİNEMA SERİLERİ",TR: Uzay Yolu (Orijinal)
-http://zeustv.sbs:25461/freetv_test/freetv_test/694477
+http://zeustv.sbs:25461/freetv_test/freetv_test/694477.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yeni Nesil" tvg-logo="https://image.tmdb.org/t/p/w500/htZuHIuG9ybcw6xkrWz4khZRBu0.jpg" group-title="TR SİNEMA SERİLERİ",TR: Yeni Nesil
-http://zeustv.sbs:25461/freetv_test/freetv_test/694478
+http://zeustv.sbs:25461/freetv_test/freetv_test/694478.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Zor Ölüm" tvg-logo="https://image.tmdb.org/t/p/w500/xhnb5lVfwE7NHycdPNdIxHx7kZi.jpg" group-title="TR SİNEMA SERİLERİ",TR: Zor Ölüm
-http://zeustv.sbs:25461/freetv_test/freetv_test/694479
+http://zeustv.sbs:25461/freetv_test/freetv_test/694479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: 28 Gün/Hafta/Yıl Sonra" tvg-logo="https://image.tmdb.org/t/p/w500/2DMKMinwjGb45rC2nA4nr1JsT37.jpg" group-title="TR SİNEMA SERİLERİ",TR: 28 Gün/Hafta/Yıl Sonra
-http://zeustv.sbs:25461/freetv_test/freetv_test/694480
+http://zeustv.sbs:25461/freetv_test/freetv_test/694480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Alacakaranlık" tvg-logo="https://image.tmdb.org/t/p/w500/3PlBwwizkPDZITeIPUlXQCejeQD.jpg" group-title="TR SİNEMA SERİLERİ",TR: Alacakaranlık
-http://zeustv.sbs:25461/freetv_test/freetv_test/694481
+http://zeustv.sbs:25461/freetv_test/freetv_test/694481.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Araf" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XhBOBVhe2Kuq6dop38OEPNaWvy.jpg" group-title="TR SİNEMA SERİLERİ",TR: Araf
-http://zeustv.sbs:25461/freetv_test/freetv_test/694482
+http://zeustv.sbs:25461/freetv_test/freetv_test/694482.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Arınma Gecesi" tvg-logo="https://image.tmdb.org/t/p/w500/cGZ5IudFwI11Sv5N4WxqkiQK6gD.jpg" group-title="TR SİNEMA SERİLERİ",TR: Arınma Gecesi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694483
+http://zeustv.sbs:25461/freetv_test/freetv_test/694483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Badem Şekeri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3bEyZPpVjxcrN4sP4S1uZQuXu0.jpg" group-title="TR SİNEMA SERİLERİ",TR: Badem Şekeri
-http://zeustv.sbs:25461/freetv_test/freetv_test/694484
+http://zeustv.sbs:25461/freetv_test/freetv_test/694484.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Batman" tvg-logo="https://image.tmdb.org/t/p/w500/31SwN5tZuJNsWTLx6DNNyQSAXdx.jpg" group-title="TR SİNEMA SERİLERİ",TR: Batman
-http://zeustv.sbs:25461/freetv_test/freetv_test/694485
+http://zeustv.sbs:25461/freetv_test/freetv_test/694485.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Battal Gazi" tvg-logo="https://image.tmdb.org/t/p/w500/oijv9z9UyGZGaWzKCKUZxQm7nHN.jpg" group-title="TR SİNEMA SERİLERİ",TR: Battal Gazi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694486
+http://zeustv.sbs:25461/freetv_test/freetv_test/694486.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Buz Devri" tvg-logo="https://image.tmdb.org/t/p/w500/2HlpymAhfruC02MUvF6sJB9SHQI.jpg" group-title="TR SİNEMA SERİLERİ",TR: Buz Devri
-http://zeustv.sbs:25461/freetv_test/freetv_test/694487
+http://zeustv.sbs:25461/freetv_test/freetv_test/694487.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cehennem Silahı" tvg-logo="https://image.tmdb.org/t/p/w500/5zg6QLY0tdDLVHLwn28oowG3m8H.jpg" group-title="TR SİNEMA SERİLERİ",TR: Cehennem Silahı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694488
+http://zeustv.sbs:25461/freetv_test/freetv_test/694488.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Drain The Oceans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moVbELiBGZxm7SOEHHVBx86vJyS.jpg" group-title="TR SİNEMA SERİLERİ",TR: Drain The Oceans
-http://zeustv.sbs:25461/freetv_test/freetv_test/694489
+http://zeustv.sbs:25461/freetv_test/freetv_test/694489.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Evde Tek Başına" tvg-logo="https://image.tmdb.org/t/p/w500/zYPsleQJo1n1rBPlecJBRb3iwSO.jpg" group-title="TR SİNEMA SERİLERİ",TR: Evde Tek Başına
-http://zeustv.sbs:25461/freetv_test/freetv_test/694490
+http://zeustv.sbs:25461/freetv_test/freetv_test/694490.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Geniş Aile" tvg-logo="https://image.tmdb.org/t/p/w500/i5MyTZvmynsOP6myQVvViWRec5t.jpg" group-title="TR SİNEMA SERİLERİ",TR: Geniş Aile
-http://zeustv.sbs:25461/freetv_test/freetv_test/694491
+http://zeustv.sbs:25461/freetv_test/freetv_test/694491.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ip Man" tvg-logo="https://image.tmdb.org/t/p/w500/d5025iuay2UTeviFdu5zKKurfg4.jpg" group-title="TR SİNEMA SERİLERİ",TR: Ip Man
-http://zeustv.sbs:25461/freetv_test/freetv_test/694492
+http://zeustv.sbs:25461/freetv_test/freetv_test/694492.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: John Wick" tvg-logo="https://image.tmdb.org/t/p/w500/sm7rZZivZm2NhJDucFf3gpfFdVt.jpg" group-title="TR SİNEMA SERİLERİ",TR: John Wick
-http://zeustv.sbs:25461/freetv_test/freetv_test/694493
+http://zeustv.sbs:25461/freetv_test/freetv_test/694493.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Karakomik" tvg-logo="https://image.tmdb.org/t/p/w500/pKA8CExrMplrumU7nexApStwj2i.jpg" group-title="TR SİNEMA SERİLERİ",TR: Karakomik
-http://zeustv.sbs:25461/freetv_test/freetv_test/694494
+http://zeustv.sbs:25461/freetv_test/freetv_test/694494.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Karlar Kraliçesi" tvg-logo="https://image.tmdb.org/t/p/w500/r2ONwf2TcKULpPAEpqfOAK2bgXi.jpg" group-title="TR SİNEMA SERİLERİ",TR: Karlar Kraliçesi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694495
+http://zeustv.sbs:25461/freetv_test/freetv_test/694495.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Katakulli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCFWlCQsIAvoxem64bMgrXBqWCy.jpg" group-title="TR SİNEMA SERİLERİ",TR: Katakulli
-http://zeustv.sbs:25461/freetv_test/freetv_test/694496
+http://zeustv.sbs:25461/freetv_test/freetv_test/694496.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kolpaçino" tvg-logo="https://image.tmdb.org/t/p/w500/s7n2Rjgekn53G2NcXUuQ5VSqrGf.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kolpaçino
-http://zeustv.sbs:25461/freetv_test/freetv_test/694497
+http://zeustv.sbs:25461/freetv_test/freetv_test/694497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Korku Seansı" tvg-logo="https://image.tmdb.org/t/p/w500/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg" group-title="TR SİNEMA SERİLERİ",TR: Korku Seansı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694498
+http://zeustv.sbs:25461/freetv_test/freetv_test/694498.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kral Şakir" tvg-logo="https://image.tmdb.org/t/p/w500/gorlYuOS0oq9Rl8hu7KTve8BrEM.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kral Şakir
-http://zeustv.sbs:25461/freetv_test/freetv_test/694499
+http://zeustv.sbs:25461/freetv_test/freetv_test/694499.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi" tvg-logo="https://image.tmdb.org/t/p/w500/kBp0BFtHmoyNHj66WrwD5lbp8md.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kurtlar Vadisi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694500
+http://zeustv.sbs:25461/freetv_test/freetv_test/694500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kutsal Damacana" tvg-logo="https://image.tmdb.org/t/p/w500/iWXTV2ElMaxBl9HsiQFJCrfEvpk.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kutsal Damacana
-http://zeustv.sbs:25461/freetv_test/freetv_test/694501
+http://zeustv.sbs:25461/freetv_test/freetv_test/694501.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Maymunlar Cehennemi (Yeni Seri)" tvg-logo="https://image.tmdb.org/t/p/w500/cKN2dH4IarJUjgiSzbHC0O7piDL.jpg" group-title="TR SİNEMA SERİLERİ",TR: Maymunlar Cehennemi (Yeni Seri)
-http://zeustv.sbs:25461/freetv_test/freetv_test/694502
+http://zeustv.sbs:25461/freetv_test/freetv_test/694502.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Monster High" tvg-logo="https://image.tmdb.org/t/p/w500/9adr1EyAka6LHph1A7TmB9aNAjq.jpg" group-title="TR SİNEMA SERİLERİ",TR: Monster High
-http://zeustv.sbs:25461/freetv_test/freetv_test/694503
+http://zeustv.sbs:25461/freetv_test/freetv_test/694503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Saftirik Greg&#039;in Günlüğü" tvg-logo="https://image.tmdb.org/t/p/w500/4Miizfzuds4ldROTff9vB0Z3EId.jpg" group-title="TR SİNEMA SERİLERİ",TR: Saftirik Greg&#039;in Günlüğü
-http://zeustv.sbs:25461/freetv_test/freetv_test/694504
+http://zeustv.sbs:25461/freetv_test/freetv_test/694504.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Savage X Fenty" tvg-logo="https://image.tmdb.org/t/p/w500/tvFqWQZsitcTnMcJtmdhzHDxZOt.jpg" group-title="TR SİNEMA SERİLERİ",TR: Savage X Fenty
-http://zeustv.sbs:25461/freetv_test/freetv_test/694505
+http://zeustv.sbs:25461/freetv_test/freetv_test/694505.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Superman" tvg-logo="https://image.tmdb.org/t/p/w500/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg" group-title="TR SİNEMA SERİLERİ",TR: Superman
-http://zeustv.sbs:25461/freetv_test/freetv_test/694506
+http://zeustv.sbs:25461/freetv_test/freetv_test/694506.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sümela&#039;nın Şifresi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UKLquWYDv7kfWr7ZdgUjv25mkM.jpg" group-title="TR SİNEMA SERİLERİ",TR: Sümela&#039;nın Şifresi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694507
+http://zeustv.sbs:25461/freetv_test/freetv_test/694507.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Süper Polis" tvg-logo="https://image.tmdb.org/t/p/w500/6NSErnTTGtmSx7re1gy9tIVww0J.jpg" group-title="TR SİNEMA SERİLERİ",TR: Süper Polis
-http://zeustv.sbs:25461/freetv_test/freetv_test/694508
+http://zeustv.sbs:25461/freetv_test/freetv_test/694508.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Taksi" tvg-logo="https://image.tmdb.org/t/p/w500/4cXADzcwkUtBasmUffOGyJfcjre.jpg" group-title="TR SİNEMA SERİLERİ",TR: Taksi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694509
+http://zeustv.sbs:25461/freetv_test/freetv_test/694509.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tarkan" tvg-logo="https://image.tmdb.org/t/p/w500/ckLhbWdAzMCkJXPSGYGGWPBTTBo.jpg" group-title="TR SİNEMA SERİLERİ",TR: Tarkan
-http://zeustv.sbs:25461/freetv_test/freetv_test/694510
+http://zeustv.sbs:25461/freetv_test/freetv_test/694510.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tehlikeli Tür" tvg-logo="https://image.tmdb.org/t/p/w500/ucFAYoB8Ko9oCNSn5Nc7xpYMKXj.jpg" group-title="TR SİNEMA SERİLERİ",TR: Tehlikeli Tür
-http://zeustv.sbs:25461/freetv_test/freetv_test/694511
+http://zeustv.sbs:25461/freetv_test/freetv_test/694511.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Terminatör" tvg-logo="https://image.tmdb.org/t/p/w500/nGc3QhhhYZKe5tOyqFUBHDEplSY.jpg" group-title="TR SİNEMA SERİLERİ",TR: Terminatör
-http://zeustv.sbs:25461/freetv_test/freetv_test/694512
+http://zeustv.sbs:25461/freetv_test/freetv_test/694512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Thor" tvg-logo="https://image.tmdb.org/t/p/w500/1fGblAmaE2wU6ts2A83eWBgkmHs.jpg" group-title="TR SİNEMA SERİLERİ",TR: Thor
-http://zeustv.sbs:25461/freetv_test/freetv_test/694513
+http://zeustv.sbs:25461/freetv_test/freetv_test/694513.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: An Unforgettable Year" tvg-logo="https://image.tmdb.org/t/p/w500/a0BbzEhyar0rOZ1BrO7pK8xPUhy.jpg" group-title="TR SİNEMA SERİLERİ",TR: An Unforgettable Year
-http://zeustv.sbs:25461/freetv_test/freetv_test/694514
+http://zeustv.sbs:25461/freetv_test/freetv_test/694514.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Uzay Yolu - Yeni Nesil" tvg-logo="https://image.tmdb.org/t/p/w500/sddV6vaUC6x37icJS3opIXTXB07.jpg" group-title="TR SİNEMA SERİLERİ",TR: Uzay Yolu - Yeni Nesil
-http://zeustv.sbs:25461/freetv_test/freetv_test/694515
+http://zeustv.sbs:25461/freetv_test/freetv_test/694515.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yenilmez" tvg-logo="https://image.tmdb.org/t/p/w500/uiRATuw9cgL1ZGiek9e98edToKa.jpg" group-title="TR SİNEMA SERİLERİ",TR: Yenilmez
-http://zeustv.sbs:25461/freetv_test/freetv_test/694516
+http://zeustv.sbs:25461/freetv_test/freetv_test/694516.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yenilmezler" tvg-logo="https://image.tmdb.org/t/p/w500/yFSIUVTCvgYrpalUktulvk3Gi5Y.jpg" group-title="TR SİNEMA SERİLERİ",TR: Yenilmezler
-http://zeustv.sbs:25461/freetv_test/freetv_test/694517
+http://zeustv.sbs:25461/freetv_test/freetv_test/694517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Çılgın İkili" tvg-logo="https://image.tmdb.org/t/p/w500/eyFIxc3EHUn6SJlGgZyVDwiUp1P.jpg" group-title="TR SİNEMA SERİLERİ",TR: Çılgın İkili
-http://zeustv.sbs:25461/freetv_test/freetv_test/694518
+http://zeustv.sbs:25461/freetv_test/freetv_test/694518.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Örümcek Adam (Yenilmezler)" tvg-logo="https://image.tmdb.org/t/p/w500/yeba3Y820OjApZO9aJevDsNeMEd.jpg" group-title="TR SİNEMA SERİLERİ",TR: Örümcek Adam (Yenilmezler)
-http://zeustv.sbs:25461/freetv_test/freetv_test/694519
+http://zeustv.sbs:25461/freetv_test/freetv_test/694519.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Şeytan" tvg-logo="https://image.tmdb.org/t/p/w500/1gw7RCYyRqginNo5D9PMPQQw7QB.jpg" group-title="TR SİNEMA SERİLERİ",TR: Şeytan
-http://zeustv.sbs:25461/freetv_test/freetv_test/694520
+http://zeustv.sbs:25461/freetv_test/freetv_test/694520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Şrek" tvg-logo="https://image.tmdb.org/t/p/w500/as5MRzIOntfywNjrCOzhxHFUtYg.jpg" group-title="TR SİNEMA SERİLERİ",TR: Şrek
-http://zeustv.sbs:25461/freetv_test/freetv_test/694521
+http://zeustv.sbs:25461/freetv_test/freetv_test/694521.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dragon Ball Z" tvg-logo="https://image.tmdb.org/t/p/w500/2VMZ1zRFPnUQtQp5K4WRXvDYBjh.jpg" group-title="TR SİNEMA SERİLERİ",TR: Dragon Ball Z
-http://zeustv.sbs:25461/freetv_test/freetv_test/694522
+http://zeustv.sbs:25461/freetv_test/freetv_test/694522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: The Seven Deadly Sins" tvg-logo="https://image.tmdb.org/t/p/w500/9uvitdbpgvEhIpYk9QGosfvnq1e.jpg" group-title="TR SİNEMA SERİLERİ",TR: The Seven Deadly Sins
-http://zeustv.sbs:25461/freetv_test/freetv_test/694523
+http://zeustv.sbs:25461/freetv_test/freetv_test/694523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: 4N1K" tvg-logo="https://image.tmdb.org/t/p/w500/q6ftwBi4PRsAcDOPePC8L3YYtrF.jpg" group-title="TR SİNEMA SERİLERİ",TR: 4N1K
-http://zeustv.sbs:25461/freetv_test/freetv_test/694524
+http://zeustv.sbs:25461/freetv_test/freetv_test/694524.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Adalet" tvg-logo="https://image.tmdb.org/t/p/w500/nDhqyPfOcVJKlBo4QxPpWmrWcOJ.jpg" group-title="TR SİNEMA SERİLERİ",TR: Adalet
-http://zeustv.sbs:25461/freetv_test/freetv_test/694525
+http://zeustv.sbs:25461/freetv_test/freetv_test/694525.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Adamın 10 Günü" tvg-logo="https://image.tmdb.org/t/p/w500/hzZ2PW1Njp1DClDYIEefaMj1CNl.jpg" group-title="TR SİNEMA SERİLERİ",TR: Adamın 10 Günü
-http://zeustv.sbs:25461/freetv_test/freetv_test/694526
+http://zeustv.sbs:25461/freetv_test/freetv_test/694526.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Afacanlar" tvg-logo="https://image.tmdb.org/t/p/w500/pdw3qe8CPXBa3ZmN91QYCyorD3z.jpg" group-title="TR SİNEMA SERİLERİ",TR: Afacanlar
-http://zeustv.sbs:25461/freetv_test/freetv_test/694527
+http://zeustv.sbs:25461/freetv_test/freetv_test/694527.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Alaaddin" tvg-logo="https://image.tmdb.org/t/p/w500/fDyauH6Yc8IA5gtfq3IWHDwOve8.jpg" group-title="TR SİNEMA SERİLERİ",TR: Alaaddin
-http://zeustv.sbs:25461/freetv_test/freetv_test/694528
+http://zeustv.sbs:25461/freetv_test/freetv_test/694528.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Alvin ve Sincaplar" tvg-logo="https://image.tmdb.org/t/p/w500/bHiMW6VaH9hRVungMe3re7ClMnx.jpg" group-title="TR SİNEMA SERİLERİ",TR: Alvin ve Sincaplar
-http://zeustv.sbs:25461/freetv_test/freetv_test/694529
+http://zeustv.sbs:25461/freetv_test/freetv_test/694529.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Amerikan Pastası" tvg-logo="https://image.tmdb.org/t/p/w500/twY1eM88fu8CCGVtem5ItlrgeDA.jpg" group-title="TR SİNEMA SERİLERİ",TR: Amerikan Pastası
-http://zeustv.sbs:25461/freetv_test/freetv_test/694530
+http://zeustv.sbs:25461/freetv_test/freetv_test/694530.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Annabelle" tvg-logo="https://image.tmdb.org/t/p/w500/hzm3LbCK41VSpK0ClFp38NGE6tx.jpg" group-title="TR SİNEMA SERİLERİ",TR: Annabelle
-http://zeustv.sbs:25461/freetv_test/freetv_test/694531
+http://zeustv.sbs:25461/freetv_test/freetv_test/694531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ant-Man" tvg-logo="https://image.tmdb.org/t/p/w500/x4TTR2IXaBHC5C7SEwBIC7HcNJO.jpg" group-title="TR SİNEMA SERİLERİ",TR: Ant-Man
-http://zeustv.sbs:25461/freetv_test/freetv_test/694532
+http://zeustv.sbs:25461/freetv_test/freetv_test/694532.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Arabalar" tvg-logo="https://image.tmdb.org/t/p/w500/uq3N2SFj1Y06zA6LzCQPkmBdaaE.jpg" group-title="TR SİNEMA SERİLERİ",TR: Arabalar
-http://zeustv.sbs:25461/freetv_test/freetv_test/694533
+http://zeustv.sbs:25461/freetv_test/freetv_test/694533.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Asteriks ve Oburiks (Animasyon)" tvg-logo="https://image.tmdb.org/t/p/w500/mJ85mdtrQl2LWTNAHHcSJC55dcs.jpg" group-title="TR SİNEMA SERİLERİ",TR: Asteriks ve Oburiks (Animasyon)
-http://zeustv.sbs:25461/freetv_test/freetv_test/694534
+http://zeustv.sbs:25461/freetv_test/freetv_test/694534.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Austin Powers" tvg-logo="https://image.tmdb.org/t/p/w500/1PkGnyFwRyapmbuILIOXXxiSh7Y.jpg" group-title="TR SİNEMA SERİLERİ",TR: Austin Powers
-http://zeustv.sbs:25461/freetv_test/freetv_test/694535
+http://zeustv.sbs:25461/freetv_test/freetv_test/694535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Av" tvg-logo="https://image.tmdb.org/t/p/w500/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg" group-title="TR SİNEMA SERİLERİ",TR: Av
-http://zeustv.sbs:25461/freetv_test/freetv_test/694536
+http://zeustv.sbs:25461/freetv_test/freetv_test/694536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Avatar" tvg-logo="https://image.tmdb.org/t/p/w500/4Jw7HwEZlmirQ40cQhTDtrE5ls4.jpg" group-title="TR SİNEMA SERİLERİ",TR: Avatar
-http://zeustv.sbs:25461/freetv_test/freetv_test/694537
+http://zeustv.sbs:25461/freetv_test/freetv_test/694537.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Ayı Kardeşler" tvg-logo="https://image.tmdb.org/t/p/w500/c6TMSvi3n3xFGbXwHIGQz21H9Yj.jpg" group-title="TR SİNEMA SERİLERİ",TR: Ayı Kardeşler
-http://zeustv.sbs:25461/freetv_test/freetv_test/694538
+http://zeustv.sbs:25461/freetv_test/freetv_test/694538.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Baba" tvg-logo="https://image.tmdb.org/t/p/w500/2hiAGkuUd0oV08LRTGjbKJ5XR6V.jpg" group-title="TR SİNEMA SERİLERİ",TR: Baba
-http://zeustv.sbs:25461/freetv_test/freetv_test/694539
+http://zeustv.sbs:25461/freetv_test/freetv_test/694539.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Banliyö Çocukları" tvg-logo="https://image.tmdb.org/t/p/w500/nTgXrrGQ2qeIO9mjKCmNoEAot0O.jpg" group-title="TR SİNEMA SERİLERİ",TR: Banliyö Çocukları
-http://zeustv.sbs:25461/freetv_test/freetv_test/694540
+http://zeustv.sbs:25461/freetv_test/freetv_test/694540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Beauty and the Beast" tvg-logo="https://image.tmdb.org/t/p/w500/eh87S0t1xoB8l947h9ZgQQCj1ur.jpg" group-title="TR SİNEMA SERİLERİ",TR: Beauty and the Beast
-http://zeustv.sbs:25461/freetv_test/freetv_test/694541
+http://zeustv.sbs:25461/freetv_test/freetv_test/694541.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Belle ve Sebastian" tvg-logo="https://image.tmdb.org/t/p/w500/tIhUicSgsGF4honnyc8GAfjntTT.jpg" group-title="TR SİNEMA SERİLERİ",TR: Belle ve Sebastian
-http://zeustv.sbs:25461/freetv_test/freetv_test/694542
+http://zeustv.sbs:25461/freetv_test/freetv_test/694542.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Beverly Hills Chihuahua" tvg-logo="https://image.tmdb.org/t/p/w500/v7ofpZSklN0m2ecuHUWeO8S6ZUb.jpg" group-title="TR SİNEMA SERİLERİ",TR: Beverly Hills Chihuahua
-http://zeustv.sbs:25461/freetv_test/freetv_test/694543
+http://zeustv.sbs:25461/freetv_test/freetv_test/694543.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bitirim İkili" tvg-logo="https://image.tmdb.org/t/p/w500/pEvK2AoBnhC1RgqB7VRbBCMDq23.jpg" group-title="TR SİNEMA SERİLERİ",TR: Bitirim İkili
-http://zeustv.sbs:25461/freetv_test/freetv_test/694544
+http://zeustv.sbs:25461/freetv_test/freetv_test/694544.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bizum Hoca" tvg-logo="https://image.tmdb.org/t/p/w500/rikpiSilY1CcdmzZF2CmmLvcSdv.jpg" group-title="TR SİNEMA SERİLERİ",TR: Bizum Hoca
-http://zeustv.sbs:25461/freetv_test/freetv_test/694545
+http://zeustv.sbs:25461/freetv_test/freetv_test/694545.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bıçağın İki Yüzü" tvg-logo="https://image.tmdb.org/t/p/w500/vTXwJm2UC0Z0HwXTRmsMecGJErc.jpg" group-title="TR SİNEMA SERİLERİ",TR: Bıçağın İki Yüzü
-http://zeustv.sbs:25461/freetv_test/freetv_test/694546
+http://zeustv.sbs:25461/freetv_test/freetv_test/694546.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Chucky" tvg-logo="https://image.tmdb.org/t/p/w500/50aqbDvbOtdlZrje6Qk4ZvKM7dM.jpg" group-title="TR SİNEMA SERİLERİ",TR: Chucky
-http://zeustv.sbs:25461/freetv_test/freetv_test/694547
+http://zeustv.sbs:25461/freetv_test/freetv_test/694547.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Culpa Mia" tvg-logo="https://image.tmdb.org/t/p/w500/sClS8nmwN9uVRy4rzwzil01aTY9.jpg" group-title="TR SİNEMA SERİLERİ",TR: Culpa Mia
-http://zeustv.sbs:25461/freetv_test/freetv_test/694548
+http://zeustv.sbs:25461/freetv_test/freetv_test/694548.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cumali Ceber" tvg-logo="https://image.tmdb.org/t/p/w500/nvK1bX6v8MCH79Jwx36Ehbw4Gqf.jpg" group-title="TR SİNEMA SERİLERİ",TR: Cumali Ceber
-http://zeustv.sbs:25461/freetv_test/freetv_test/694549
+http://zeustv.sbs:25461/freetv_test/freetv_test/694549.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Deadpool" tvg-logo="https://image.tmdb.org/t/p/w500/30c5jO7YEXuF8KiWXLg9m28GWDA.jpg" group-title="TR SİNEMA SERİLERİ",TR: Deadpool
-http://zeustv.sbs:25461/freetv_test/freetv_test/694550
+http://zeustv.sbs:25461/freetv_test/freetv_test/694550.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dede Korkut Hikayeleri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YTxsBOKiw7ZsS028UXpsYDVCY8.jpg" group-title="TR SİNEMA SERİLERİ",TR: Dede Korkut Hikayeleri
-http://zeustv.sbs:25461/freetv_test/freetv_test/694551
+http://zeustv.sbs:25461/freetv_test/freetv_test/694551.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Demir Adam" tvg-logo="https://image.tmdb.org/t/p/w500/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg" group-title="TR SİNEMA SERİLERİ",TR: Demir Adam
-http://zeustv.sbs:25461/freetv_test/freetv_test/694552
+http://zeustv.sbs:25461/freetv_test/freetv_test/694552.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Detektif Knight" tvg-logo="https://image.tmdb.org/t/p/w500/fJxtupKRCEQfLGS9zcyha2oZRzt.jpg" group-title="TR SİNEMA SERİLERİ",TR: Detektif Knight
-http://zeustv.sbs:25461/freetv_test/freetv_test/694553
+http://zeustv.sbs:25461/freetv_test/freetv_test/694553.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Downton Abbey (Films)" tvg-logo="https://image.tmdb.org/t/p/w500/d7WcrOsGWkJYAgaZWy00luZBcjf.jpg" group-title="TR SİNEMA SERİLERİ",TR: Downton Abbey (Films)
-http://zeustv.sbs:25461/freetv_test/freetv_test/694554
+http://zeustv.sbs:25461/freetv_test/freetv_test/694554.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Efsane Dörtlü" tvg-logo="https://image.tmdb.org/t/p/w500/nlQoCcuAb4v3ejNZ1GZ0yxQoEvc.jpg" group-title="TR SİNEMA SERİLERİ",TR: Efsane Dörtlü
-http://zeustv.sbs:25461/freetv_test/freetv_test/694555
+http://zeustv.sbs:25461/freetv_test/freetv_test/694555.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Efsunlu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNBquJ9TrrzvIoidd59e8DxBeEL.jpg" group-title="TR SİNEMA SERİLERİ",TR: Efsunlu
-http://zeustv.sbs:25461/freetv_test/freetv_test/694556
+http://zeustv.sbs:25461/freetv_test/freetv_test/694556.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Eyyvah Eyvah" tvg-logo="https://image.tmdb.org/t/p/w500/iXmzYZcEt1CZDf9tJheYar7lmXk.jpg" group-title="TR SİNEMA SERİLERİ",TR: Eyyvah Eyvah
-http://zeustv.sbs:25461/freetv_test/freetv_test/694557
+http://zeustv.sbs:25461/freetv_test/freetv_test/694557.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Fantomas" tvg-logo="https://image.tmdb.org/t/p/w500/yLYML0f8D1Z3fBm0XaU3j9yUScX.jpg" group-title="TR SİNEMA SERİLERİ",TR: Fantomas
-http://zeustv.sbs:25461/freetv_test/freetv_test/694558
+http://zeustv.sbs:25461/freetv_test/freetv_test/694558.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Felekten Bir Gece" tvg-logo="https://image.tmdb.org/t/p/w500/x8D6HXhmvdtPhM219J5Rc6ESagr.jpg" group-title="TR SİNEMA SERİLERİ",TR: Felekten Bir Gece
-http://zeustv.sbs:25461/freetv_test/freetv_test/694559
+http://zeustv.sbs:25461/freetv_test/freetv_test/694559.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: G.o.r.a." tvg-logo="https://image.tmdb.org/t/p/w500/dUUwblgCaQc4Mc3SWgXzRyf4dMM.jpg" group-title="TR SİNEMA SERİLERİ",TR: G.o.r.a.
-http://zeustv.sbs:25461/freetv_test/freetv_test/694560
+http://zeustv.sbs:25461/freetv_test/freetv_test/694560.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Galaksinin Koruyucuları" tvg-logo="https://image.tmdb.org/t/p/w500/kUZnfC6SzsxRXh4hkbDkc5wJkpC.jpg" group-title="TR SİNEMA SERİLERİ",TR: Galaksinin Koruyucuları
-http://zeustv.sbs:25461/freetv_test/freetv_test/694561
+http://zeustv.sbs:25461/freetv_test/freetv_test/694561.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Godzilla" tvg-logo="https://image.tmdb.org/t/p/w500/inNN466SKHNjbGmpfhfsaPQNleS.jpg" group-title="TR SİNEMA SERİLERİ",TR: Godzilla
-http://zeustv.sbs:25461/freetv_test/freetv_test/694562
+http://zeustv.sbs:25461/freetv_test/freetv_test/694562.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Gün Batımından Şafağa" tvg-logo="https://image.tmdb.org/t/p/w500/xnsrJXjWvdMGHHcFJozgZasaBCk.jpg" group-title="TR SİNEMA SERİLERİ",TR: Gün Batımından Şafağa
-http://zeustv.sbs:25461/freetv_test/freetv_test/694563
+http://zeustv.sbs:25461/freetv_test/freetv_test/694563.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Halka" tvg-logo="https://image.tmdb.org/t/p/w500/500xj7l72BojMZ3tNBJY46tg5YJ.jpg" group-title="TR SİNEMA SERİLERİ",TR: Halka
-http://zeustv.sbs:25461/freetv_test/freetv_test/694564
+http://zeustv.sbs:25461/freetv_test/freetv_test/694564.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Hate Story" tvg-logo="https://image.tmdb.org/t/p/w500/5f2geWF0bwqSVqyB0vGasfzNm2x.jpg" group-title="TR SİNEMA SERİLERİ",TR: Hate Story
-http://zeustv.sbs:25461/freetv_test/freetv_test/694565
+http://zeustv.sbs:25461/freetv_test/freetv_test/694565.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Hayalet Avcıları" tvg-logo="https://image.tmdb.org/t/p/w500/sctvCtE1M1rDF4f0W2fMrk2BrGB.jpg" group-title="TR SİNEMA SERİLERİ",TR: Hayalet Avcıları
-http://zeustv.sbs:25461/freetv_test/freetv_test/694566
+http://zeustv.sbs:25461/freetv_test/freetv_test/694566.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Hobbit" tvg-logo="https://image.tmdb.org/t/p/w500/hQghXOjSS2xfzx9XnMyZqt8brCF.jpg" group-title="TR SİNEMA SERİLERİ",TR: Hobbit
-http://zeustv.sbs:25461/freetv_test/freetv_test/694567
+http://zeustv.sbs:25461/freetv_test/freetv_test/694567.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Indiana Jones" tvg-logo="https://image.tmdb.org/t/p/w500/lpxDrACKJhbbGOlwVMNz5YCj6SI.jpg" group-title="TR SİNEMA SERİLERİ",TR: Indiana Jones
-http://zeustv.sbs:25461/freetv_test/freetv_test/694568
+http://zeustv.sbs:25461/freetv_test/freetv_test/694568.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Jarhead" tvg-logo="https://image.tmdb.org/t/p/w500/aRFpBjCseFD6UmahAuLdqS7Or5q.jpg" group-title="TR SİNEMA SERİLERİ",TR: Jarhead
-http://zeustv.sbs:25461/freetv_test/freetv_test/694569
+http://zeustv.sbs:25461/freetv_test/freetv_test/694569.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Jesse Stone" tvg-logo="https://image.tmdb.org/t/p/w500/ykW940epBc3kR2A02zwQuJgEDcR.jpg" group-title="TR SİNEMA SERİLERİ",TR: Jesse Stone
-http://zeustv.sbs:25461/freetv_test/freetv_test/694570
+http://zeustv.sbs:25461/freetv_test/freetv_test/694570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Jumanji" tvg-logo="https://image.tmdb.org/t/p/w500/AetcZzB9dcbzEWmnvvTF74HjCOU.jpg" group-title="TR SİNEMA SERİLERİ",TR: Jumanji
-http://zeustv.sbs:25461/freetv_test/freetv_test/694571
+http://zeustv.sbs:25461/freetv_test/freetv_test/694571.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Justice League (Tomorrowverse)" tvg-logo="https://image.tmdb.org/t/p/w500/1KS9d4yun6Ok8u5m4lU9dpFbJcc.jpg" group-title="TR SİNEMA SERİLERİ",TR: Justice League (Tomorrowverse)
-http://zeustv.sbs:25461/freetv_test/freetv_test/694572
+http://zeustv.sbs:25461/freetv_test/freetv_test/694572.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kadın Temalı Düşsel Fantazya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB4aLywUQ0ZnGS0tivB9h338xrI.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kadın Temalı Düşsel Fantazya
-http://zeustv.sbs:25461/freetv_test/freetv_test/694573
+http://zeustv.sbs:25461/freetv_test/freetv_test/694573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kaptan Amerika" tvg-logo="https://image.tmdb.org/t/p/w500/2tOgiY533JSFp7OrVlkeRJvsZpI.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kaptan Amerika
-http://zeustv.sbs:25461/freetv_test/freetv_test/694574
+http://zeustv.sbs:25461/freetv_test/freetv_test/694574.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kara Şövalye" tvg-logo="https://image.tmdb.org/t/p/w500/fDWCNgS5wDXQiPQmzHG1ePKIZqe.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kara Şövalye
-http://zeustv.sbs:25461/freetv_test/freetv_test/694575
+http://zeustv.sbs:25461/freetv_test/freetv_test/694575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kardeş Takımı" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KK0WQ0UtkxqTBFeTT09wh5gZws.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kardeş Takımı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694576
+http://zeustv.sbs:25461/freetv_test/freetv_test/694576.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kirli İşler" tvg-logo="https://image.tmdb.org/t/p/w500/2DNJF26yZpBmCb76eZUfT2wgKc4.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kirli İşler
-http://zeustv.sbs:25461/freetv_test/freetv_test/694577
+http://zeustv.sbs:25461/freetv_test/freetv_test/694577.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kirpi Sonic" tvg-logo="https://image.tmdb.org/t/p/w500/1qtAVIWnx4vxmFEnZ3fDDbtMt8o.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kirpi Sonic
-http://zeustv.sbs:25461/freetv_test/freetv_test/694578
+http://zeustv.sbs:25461/freetv_test/freetv_test/694578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kod Adı" tvg-logo="https://image.tmdb.org/t/p/w500/kSHvhQ6RpmNgEfYEUqmPHEZbwxz.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kod Adı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694579
+http://zeustv.sbs:25461/freetv_test/freetv_test/694579.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Korku Sokağı" tvg-logo="https://image.tmdb.org/t/p/w500/444wykkRg6Nw4DXgNIHZXFm1MKE.jpg" group-title="TR SİNEMA SERİLERİ",TR: Korku Sokağı
-http://zeustv.sbs:25461/freetv_test/freetv_test/694580
+http://zeustv.sbs:25461/freetv_test/freetv_test/694580.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kung Fu Panda" tvg-logo="https://image.tmdb.org/t/p/w500/xoYc0RYKSc3xC4S9OpPZxKocKtj.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kung Fu Panda
-http://zeustv.sbs:25461/freetv_test/freetv_test/694581
+http://zeustv.sbs:25461/freetv_test/freetv_test/694581.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kuralsızlar" tvg-logo="https://image.tmdb.org/t/p/w500/sycF6WvwIt25BKkWTQRjWpplBhv.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kuralsızlar
-http://zeustv.sbs:25461/freetv_test/freetv_test/694582
+http://zeustv.sbs:25461/freetv_test/freetv_test/694582.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kötü Ruh" tvg-logo="https://image.tmdb.org/t/p/w500/eWFADubShlTEUiNsPcN6BMOKakr.jpg" group-title="TR SİNEMA SERİLERİ",TR: Kötü Ruh
-http://zeustv.sbs:25461/freetv_test/freetv_test/694583
+http://zeustv.sbs:25461/freetv_test/freetv_test/694583.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Külkedisi Hikayesi" tvg-logo="https://image.tmdb.org/t/p/w500/8wE9eB2Jz4tFVVDNpRRPbmyJExy.jpg" group-title="TR SİNEMA SERİLERİ",TR: Külkedisi Hikayesi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694584
+http://zeustv.sbs:25461/freetv_test/freetv_test/694584.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Küçük Adam" tvg-logo="https://image.tmdb.org/t/p/w500/aKoPYFwi0bKFkDXzrfspjyeFy6M.jpg" group-title="TR SİNEMA SERİLERİ",TR: Küçük Adam
-http://zeustv.sbs:25461/freetv_test/freetv_test/694585
+http://zeustv.sbs:25461/freetv_test/freetv_test/694585.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Küçük Kardeşim" tvg-logo="https://image.tmdb.org/t/p/w500/pyYBMLZiBn8qKXJ0kKSMdt2PZqd.jpg" group-title="TR SİNEMA SERİLERİ",TR: Küçük Kardeşim
-http://zeustv.sbs:25461/freetv_test/freetv_test/694586
+http://zeustv.sbs:25461/freetv_test/freetv_test/694586.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Labirent" tvg-logo="https://image.tmdb.org/t/p/w500/psGlXjatLjBzON4OAko4GRBL4Sr.jpg" group-title="TR SİNEMA SERİLERİ",TR: Labirent
-http://zeustv.sbs:25461/freetv_test/freetv_test/694587
+http://zeustv.sbs:25461/freetv_test/freetv_test/694587.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Animasyon" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Animasyon
-http://zeustv.sbs:25461/freetv_test/freetv_test/694588
+http://zeustv.sbs:25461/freetv_test/freetv_test/694588.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Yeşilçam" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.yesilcamsinema/prot%C3%BCrk.ye%C5%9Fil%C3%A7am.png" group-title="TR SİNEMA PROTURK",TR: Protürk Yeşilçam
-http://zeustv.sbs:25461/freetv_test/freetv_test/694589
+http://zeustv.sbs:25461/freetv_test/freetv_test/694589.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Kemal Sunal" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Kemal Sunal
-http://zeustv.sbs:25461/freetv_test/freetv_test/694590
+http://zeustv.sbs:25461/freetv_test/freetv_test/694590.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Orjinal" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Orjinal
-http://zeustv.sbs:25461/freetv_test/freetv_test/694591
+http://zeustv.sbs:25461/freetv_test/freetv_test/694591.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk 4K Ultra" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk 4K Ultra
-http://zeustv.sbs:25461/freetv_test/freetv_test/694592
+http://zeustv.sbs:25461/freetv_test/freetv_test/694592.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Netflix" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Netflix
-http://zeustv.sbs:25461/freetv_test/freetv_test/694593
+http://zeustv.sbs:25461/freetv_test/freetv_test/694593.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Western" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Western
-http://zeustv.sbs:25461/freetv_test/freetv_test/694594
+http://zeustv.sbs:25461/freetv_test/freetv_test/694594.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Uzakdoğu" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Uzakdoğu
-http://zeustv.sbs:25461/freetv_test/freetv_test/694595
+http://zeustv.sbs:25461/freetv_test/freetv_test/694595.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Yerli" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Yerli
-http://zeustv.sbs:25461/freetv_test/freetv_test/694596
+http://zeustv.sbs:25461/freetv_test/freetv_test/694596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Vizyon" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Vizyon
-http://zeustv.sbs:25461/freetv_test/freetv_test/694597
+http://zeustv.sbs:25461/freetv_test/freetv_test/694597.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Comedy" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Comedy
-http://zeustv.sbs:25461/freetv_test/freetv_test/694598
+http://zeustv.sbs:25461/freetv_test/freetv_test/694598.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Macera" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Macera
-http://zeustv.sbs:25461/freetv_test/freetv_test/694599
+http://zeustv.sbs:25461/freetv_test/freetv_test/694599.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Fantastic" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Fantastic
-http://zeustv.sbs:25461/freetv_test/freetv_test/694600
+http://zeustv.sbs:25461/freetv_test/freetv_test/694600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk DRAM" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk DRAM
-http://zeustv.sbs:25461/freetv_test/freetv_test/694601
+http://zeustv.sbs:25461/freetv_test/freetv_test/694601.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Korku" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Korku
-http://zeustv.sbs:25461/freetv_test/freetv_test/694602
+http://zeustv.sbs:25461/freetv_test/freetv_test/694602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Gerilim" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Gerilim
-http://zeustv.sbs:25461/freetv_test/freetv_test/694603
+http://zeustv.sbs:25461/freetv_test/freetv_test/694603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Action" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Action
-http://zeustv.sbs:25461/freetv_test/freetv_test/694604
+http://zeustv.sbs:25461/freetv_test/freetv_test/694604.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk Bilim Kurgu" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk Bilim Kurgu
-http://zeustv.sbs:25461/freetv_test/freetv_test/694605
+http://zeustv.sbs:25461/freetv_test/freetv_test/694605.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk LOCA 2" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk LOCA 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694606
+http://zeustv.sbs:25461/freetv_test/freetv_test/694606.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Protürk LOCA 1" tvg-logo="https://i.ibb.co/k6SZbfVw/proturk.png" group-title="TR SİNEMA PROTURK",TR: Protürk LOCA 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694607
+http://zeustv.sbs:25461/freetv_test/freetv_test/694607.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Yerli 1" tvg-logo="https://i.ibb.co/ZR8JB0ry/yerli1.png" group-title="TR CİNE ZİPORT",CineZiport Yerli 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694608
+http://zeustv.sbs:25461/freetv_test/freetv_test/694608.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Yerli 2" tvg-logo="https://i.ibb.co/3yfGq5c0/yerli2.png" group-title="TR CİNE ZİPORT",CineZiport Yerli 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694609
+http://zeustv.sbs:25461/freetv_test/freetv_test/694609.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Yerli 3" tvg-logo="https://i.ibb.co/fYTmSZvt/yerli3.png" group-title="TR CİNE ZİPORT",CineZiport Yerli 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694610
+http://zeustv.sbs:25461/freetv_test/freetv_test/694610.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Recep İvedik" tvg-logo="https://i.ibb.co/gMndbwSH/recepivedik.png" group-title="TR CİNE ZİPORT",CineZiport Recep İvedik
-http://zeustv.sbs:25461/freetv_test/freetv_test/694611
+http://zeustv.sbs:25461/freetv_test/freetv_test/694611.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Kemal Sunal" tvg-logo="https://i.ibb.co/h1V9RXRd/kemalsunal.png" group-title="TR CİNE ZİPORT",CineZiport Kemal Sunal
-http://zeustv.sbs:25461/freetv_test/freetv_test/694612
+http://zeustv.sbs:25461/freetv_test/freetv_test/694612.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Kolpacino" tvg-logo="https://i.ibb.co/FkwH5ZGH/kolpacino.png" group-title="TR CİNE ZİPORT",CineZiport Kolpacino
-http://zeustv.sbs:25461/freetv_test/freetv_test/694613
+http://zeustv.sbs:25461/freetv_test/freetv_test/694613.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Hababam" tvg-logo="https://i.ibb.co/dnP2PGS/hababam.png" group-title="TR CİNE ZİPORT",CineZiport Hababam
-http://zeustv.sbs:25461/freetv_test/freetv_test/694614
+http://zeustv.sbs:25461/freetv_test/freetv_test/694614.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Cakallarla Dans" tvg-logo="https://i.ibb.co/v4DCHM7J/cakallarladans.png" group-title="TR CİNE ZİPORT",CineZiport Cakallarla Dans
-http://zeustv.sbs:25461/freetv_test/freetv_test/694615
+http://zeustv.sbs:25461/freetv_test/freetv_test/694615.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Yesilcam 1" tvg-logo="https://i.ibb.co/XfSRSLQQ/yesilcam1.png" group-title="TR CİNE ZİPORT",CineZiport Yesilcam 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694616
+http://zeustv.sbs:25461/freetv_test/freetv_test/694616.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Yesilcam 2" tvg-logo="https://i.ibb.co/XfSRSLQQ/yesilcam1.png" group-title="TR CİNE ZİPORT",CineZiport Yesilcam 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694617
+http://zeustv.sbs:25461/freetv_test/freetv_test/694617.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Yesilcam 3" tvg-logo="https://i.ibb.co/XfSRSLQQ/yesilcam1.png" group-title="TR CİNE ZİPORT",CineZiport Yesilcam 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694618
+http://zeustv.sbs:25461/freetv_test/freetv_test/694618.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Komedi 1" tvg-logo="https://i.ibb.co/7xtMVtBr/komedi.png" group-title="TR CİNE ZİPORT",CineZiport Komedi 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694619
+http://zeustv.sbs:25461/freetv_test/freetv_test/694619.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Komedi 2" tvg-logo="https://i.ibb.co/7xtMVtBr/komedi.png" group-title="TR CİNE ZİPORT",CineZiport Komedi 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694620
+http://zeustv.sbs:25461/freetv_test/freetv_test/694620.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Korku 1" tvg-logo="https://i.ibb.co/Bvzw7xH/korku1.png" group-title="TR CİNE ZİPORT",CineZiport Korku 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694621
+http://zeustv.sbs:25461/freetv_test/freetv_test/694621.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Korku 2" tvg-logo="https://i.ibb.co/wrYcj44m/korku2.png" group-title="TR CİNE ZİPORT",CineZiport Korku 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694622
+http://zeustv.sbs:25461/freetv_test/freetv_test/694622.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Bilim Kurgu" tvg-logo="https://i.ibb.co/6JVzFj4m/bilimk.png" group-title="TR CİNE ZİPORT",CineZiport Bilim Kurgu
-http://zeustv.sbs:25461/freetv_test/freetv_test/694623
+http://zeustv.sbs:25461/freetv_test/freetv_test/694623.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Fantastik" tvg-logo="https://i.ibb.co/tTwKF9qX/fantastik.png" group-title="TR CİNE ZİPORT",CineZiport Fantastik
-http://zeustv.sbs:25461/freetv_test/freetv_test/694624
+http://zeustv.sbs:25461/freetv_test/freetv_test/694624.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Dram 1" tvg-logo="https://i.ibb.co/6cvSpsXY/dran1.png" group-title="TR CİNE ZİPORT",CineZiport Dram 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694625
+http://zeustv.sbs:25461/freetv_test/freetv_test/694625.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Surekli Dizi" tvg-logo="https://i.ibb.co/mVpVgyq0/sureklidizi.png" group-title="TR CİNE ZİPORT",CineZiport Surekli Dizi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694626
+http://zeustv.sbs:25461/freetv_test/freetv_test/694626.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Vizyon" tvg-logo="https://i.ibb.co/fGdR2Fny/vizyon.png" group-title="TR CİNE ZİPORT",CineZiport Vizyon
-http://zeustv.sbs:25461/freetv_test/freetv_test/694627
+http://zeustv.sbs:25461/freetv_test/freetv_test/694627.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Dram 2" tvg-logo="https://i.ibb.co/PGj5Mh5Q/dram2.png" group-title="TR CİNE ZİPORT",CineZiport Dram 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694628
+http://zeustv.sbs:25461/freetv_test/freetv_test/694628.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Garfield" tvg-logo="https://i.ibb.co/wNGVVXB7/garfield.png" group-title="TR CİNE ZİPORT",CineZiport Garfield
-http://zeustv.sbs:25461/freetv_test/freetv_test/694629
+http://zeustv.sbs:25461/freetv_test/freetv_test/694629.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport South Park" tvg-logo="https://i.ibb.co/MyR2pTLp/southpark.png" group-title="TR CİNE ZİPORT",CineZiport South Park
-http://zeustv.sbs:25461/freetv_test/freetv_test/694630
+http://zeustv.sbs:25461/freetv_test/freetv_test/694630.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Gumball" tvg-logo="https://i.ibb.co/VYq4MYbY/gumball.png" group-title="TR CİNE ZİPORT",CineZiport Gumball
-http://zeustv.sbs:25461/freetv_test/freetv_test/694631
+http://zeustv.sbs:25461/freetv_test/freetv_test/694631.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Family Guy" tvg-logo="https://i.ibb.co/0p1HHnwV/familyguy.png" group-title="TR CİNE ZİPORT",CineZiport Family Guy
-http://zeustv.sbs:25461/freetv_test/freetv_test/694632
+http://zeustv.sbs:25461/freetv_test/freetv_test/694632.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Cars" tvg-logo="https://i.ibb.co/cKZQ46FP/arabalar.png" group-title="TR CİNE ZİPORT",CineZiport Cars
-http://zeustv.sbs:25461/freetv_test/freetv_test/694633
+http://zeustv.sbs:25461/freetv_test/freetv_test/694633.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Sirinler" tvg-logo="https://i.ibb.co/NH19kKQ/sirinler.png" group-title="TR CİNE ZİPORT",CineZiport Sirinler
-http://zeustv.sbs:25461/freetv_test/freetv_test/694634
+http://zeustv.sbs:25461/freetv_test/freetv_test/694634.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Buz Devri" tvg-logo="https://i.ibb.co/s9JGh2jt/buzdevri.png" group-title="TR CİNE ZİPORT",CineZiport Buz Devri
-http://zeustv.sbs:25461/freetv_test/freetv_test/694635
+http://zeustv.sbs:25461/freetv_test/freetv_test/694635.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Masa ile Koca Ayi" tvg-logo="https://i.ibb.co/Ps9cGpNW/masailekocaayi.png" group-title="TR CİNE ZİPORT",CineZiport Masa ile Koca Ayi
-http://zeustv.sbs:25461/freetv_test/freetv_test/694636
+http://zeustv.sbs:25461/freetv_test/freetv_test/694636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Kral Sakir" tvg-logo="https://i.ibb.co/BVMFf51p/kralsakir.png" group-title="TR CİNE ZİPORT",CineZiport Kral Sakir
-http://zeustv.sbs:25461/freetv_test/freetv_test/694637
+http://zeustv.sbs:25461/freetv_test/freetv_test/694637.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Harry Potter" tvg-logo="https://i.ibb.co/Rpb2C75Q/harrypoter.png" group-title="TR CİNE ZİPORT",CineZiport Harry Potter
-http://zeustv.sbs:25461/freetv_test/freetv_test/694638
+http://zeustv.sbs:25461/freetv_test/freetv_test/694638.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Konusanlar" tvg-logo="https://i.ibb.co/WvQ6tM0F/konusanlar.png" group-title="TR CİNE ZİPORT",CineZiport Konusanlar
-http://zeustv.sbs:25461/freetv_test/freetv_test/694639
+http://zeustv.sbs:25461/freetv_test/freetv_test/694639.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Cem Yılmaz" tvg-logo="https://i.ibb.co/chWbHGjq/cmylmz.png" group-title="TR CİNE ZİPORT",CineZiport Cem Yılmaz
-http://zeustv.sbs:25461/freetv_test/freetv_test/694640
+http://zeustv.sbs:25461/freetv_test/freetv_test/694640.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Tolgshow" tvg-logo="https://i.ibb.co/mPNZYMQ/tolgshow.png" group-title="TR CİNE ZİPORT",CineZiport Tolgshow
-http://zeustv.sbs:25461/freetv_test/freetv_test/694641
+http://zeustv.sbs:25461/freetv_test/freetv_test/694641.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport IMDB TOP 10" tvg-logo="https://i.ibb.co/Pv0bDHZm/imdb.png" group-title="TR CİNE ZİPORT",CineZiport IMDB TOP 10
-http://zeustv.sbs:25461/freetv_test/freetv_test/694642
+http://zeustv.sbs:25461/freetv_test/freetv_test/694642.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Romantik 1" tvg-logo="https://i.ibb.co/G4YJMBtQ/romantik.png" group-title="TR CİNE ZİPORT",CineZiport Romantik 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694643
+http://zeustv.sbs:25461/freetv_test/freetv_test/694643.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Romantik 2" tvg-logo="https://i.ibb.co/rRGm6FgN/romantik2.png" group-title="TR CİNE ZİPORT",CineZiport Romantik 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694644
+http://zeustv.sbs:25461/freetv_test/freetv_test/694644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Animasyon 1" tvg-logo="https://i.ibb.co/dJ6yxqVd/naimasyon1.png" group-title="TR CİNE ZİPORT",CineZiport Animasyon 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694645
+http://zeustv.sbs:25461/freetv_test/freetv_test/694645.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Animasyon 2" tvg-logo="https://i.ibb.co/ymmncTf6/animasyon2.png" group-title="TR CİNE ZİPORT",CineZiport Animasyon 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694646
+http://zeustv.sbs:25461/freetv_test/freetv_test/694646.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Aksiyon 1" tvg-logo="https://i.ibb.co/k22jkg6T/aksyion.png" group-title="TR CİNE ZİPORT",CineZiport Aksiyon 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694647
+http://zeustv.sbs:25461/freetv_test/freetv_test/694647.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineZiport Aksiyon 2" tvg-logo="https://i.ibb.co/jPzSRr5M/aksiyon2.png" group-title="TR CİNE ZİPORT",CineZiport Aksiyon 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694648
+http://zeustv.sbs:25461/freetv_test/freetv_test/694648.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vızyon 1 HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Vızyon 1 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694649
+http://zeustv.sbs:25461/freetv_test/freetv_test/694649.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vızyon 2 HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Vızyon 2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694650
+http://zeustv.sbs:25461/freetv_test/freetv_test/694650.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vızyon 3 HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Vızyon 3 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694651
+http://zeustv.sbs:25461/freetv_test/freetv_test/694651.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vızyon 4 HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Vızyon 4 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694652
+http://zeustv.sbs:25461/freetv_test/freetv_test/694652.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 1 HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Aksiyon 1 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694653
+http://zeustv.sbs:25461/freetv_test/freetv_test/694653.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Aksiyon 2 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694654
+http://zeustv.sbs:25461/freetv_test/freetv_test/694654.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX 007 HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694655
+http://zeustv.sbs:25461/freetv_test/freetv_test/694655.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX GOLD HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694656
+http://zeustv.sbs:25461/freetv_test/freetv_test/694656.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX HİNT Filimleri" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX HİNT Filimleri
-http://zeustv.sbs:25461/freetv_test/freetv_test/694657
+http://zeustv.sbs:25461/freetv_test/freetv_test/694657.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Orjinal HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694658
+http://zeustv.sbs:25461/freetv_test/freetv_test/694658.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemasalon/max.png" group-title="TR SİNEMA MAX",TR: MAX PLUS HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694659
+http://zeustv.sbs:25461/freetv_test/freetv_test/694659.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Premier HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694660
+http://zeustv.sbs:25461/freetv_test/freetv_test/694660.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX STAR WARS HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694661
+http://zeustv.sbs:25461/freetv_test/freetv_test/694661.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX TURK HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694662
+http://zeustv.sbs:25461/freetv_test/freetv_test/694662.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="http://titanlogo.xubi.org/logo/591053.png" group-title="TR SİNEMA MAX",TR: MAX Western HD
-http://zeustv.sbs:25461/freetv_test/freetv_test/694663
+http://zeustv.sbs:25461/freetv_test/freetv_test/694663.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 1" tvg-logo="https://i.ibb.co/TxsYt9QT/Sinema1.png" group-title="TR SİNEMA 7/24",Sinema 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694664
+http://zeustv.sbs:25461/freetv_test/freetv_test/694664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 2" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.sinemaplatform/sinema.tv.2.png" group-title="TR SİNEMA 7/24",Sinema 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694665
+http://zeustv.sbs:25461/freetv_test/freetv_test/694665.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 3" tvg-logo="https://i.ibb.co/0pSzW4tn/Sinema3.png" group-title="TR SİNEMA 7/24",Sinema 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694666
+http://zeustv.sbs:25461/freetv_test/freetv_test/694666.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 4" tvg-logo="https://i.ibb.co/ds40mztc/Sinema4.png" group-title="TR SİNEMA 7/24",Sinema 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/694667
+http://zeustv.sbs:25461/freetv_test/freetv_test/694667.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 5" tvg-logo="https://i.ibb.co/jk2wNphW/Sinema5.png" group-title="TR SİNEMA 7/24",Sinema 5
-http://zeustv.sbs:25461/freetv_test/freetv_test/694668
+http://zeustv.sbs:25461/freetv_test/freetv_test/694668.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 6" tvg-logo="https://i.ibb.co/20S0N8PY/Sinema6.png" group-title="TR SİNEMA 7/24",Sinema 6
-http://zeustv.sbs:25461/freetv_test/freetv_test/694669
+http://zeustv.sbs:25461/freetv_test/freetv_test/694669.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 7" tvg-logo="https://i.ibb.co/1tfRGW22/Sinema7.png" group-title="TR SİNEMA 7/24",Sinema 7
-http://zeustv.sbs:25461/freetv_test/freetv_test/694670
+http://zeustv.sbs:25461/freetv_test/freetv_test/694670.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 8" tvg-logo="https://i.ibb.co/Jwt0btSS/Sinema8.png" group-title="TR SİNEMA 7/24",Sinema 8
-http://zeustv.sbs:25461/freetv_test/freetv_test/694671
+http://zeustv.sbs:25461/freetv_test/freetv_test/694671.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 9" tvg-logo="https://i.ibb.co/hJRvjvLp/Sinema9.png" group-title="TR SİNEMA 7/24",Sinema 9
-http://zeustv.sbs:25461/freetv_test/freetv_test/694672
+http://zeustv.sbs:25461/freetv_test/freetv_test/694672.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 10" tvg-logo="https://i.ibb.co/qYPwJmZh/Sinema10.png" group-title="TR SİNEMA 7/24",Sinema 10
-http://zeustv.sbs:25461/freetv_test/freetv_test/694673
+http://zeustv.sbs:25461/freetv_test/freetv_test/694673.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 11" tvg-logo="https://i.ibb.co/67V7dPNs/Sinema11.png" group-title="TR SİNEMA 7/24",Sinema 11
-http://zeustv.sbs:25461/freetv_test/freetv_test/694674
+http://zeustv.sbs:25461/freetv_test/freetv_test/694674.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 12" tvg-logo="https://i.ibb.co/xtm0b9FW/Sinema12.png" group-title="TR SİNEMA 7/24",Sinema 12
-http://zeustv.sbs:25461/freetv_test/freetv_test/694675
+http://zeustv.sbs:25461/freetv_test/freetv_test/694675.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 13" tvg-logo="https://i.ibb.co/Mkz9r0xb/Sinema13.png" group-title="TR SİNEMA 7/24",Sinema 13
-http://zeustv.sbs:25461/freetv_test/freetv_test/694676
+http://zeustv.sbs:25461/freetv_test/freetv_test/694676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 14" tvg-logo="https://i.ibb.co/1f5JrW0b/Sinema14.png" group-title="TR SİNEMA 7/24",Sinema 14
-http://zeustv.sbs:25461/freetv_test/freetv_test/694677
+http://zeustv.sbs:25461/freetv_test/freetv_test/694677.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 15" tvg-logo="https://i.ibb.co/tTHRJjfH/Sinema15.png" group-title="TR SİNEMA 7/24",Sinema 15
-http://zeustv.sbs:25461/freetv_test/freetv_test/694678
+http://zeustv.sbs:25461/freetv_test/freetv_test/694678.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 16" tvg-logo="https://i.ibb.co/XffGQ7Nx/Sinema16.png" group-title="TR SİNEMA 7/24",Sinema 16
-http://zeustv.sbs:25461/freetv_test/freetv_test/694679
+http://zeustv.sbs:25461/freetv_test/freetv_test/694679.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 17" tvg-logo="https://i.ibb.co/LDytFMdC/Sinema17.png" group-title="TR SİNEMA 7/24",Sinema 17
-http://zeustv.sbs:25461/freetv_test/freetv_test/694680
+http://zeustv.sbs:25461/freetv_test/freetv_test/694680.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 18" tvg-logo="https://i.ibb.co/DfxLHzw3/Sinema18.png" group-title="TR SİNEMA 7/24",Sinema 18
-http://zeustv.sbs:25461/freetv_test/freetv_test/694681
+http://zeustv.sbs:25461/freetv_test/freetv_test/694681.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 19" tvg-logo="https://i.ibb.co/ycGGZc3S/Sinema19.png" group-title="TR SİNEMA 7/24",Sinema 19
-http://zeustv.sbs:25461/freetv_test/freetv_test/694682
+http://zeustv.sbs:25461/freetv_test/freetv_test/694682.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sinema 20" tvg-logo="https://i.ibb.co/5gKVkk5t/Sinema20.png" group-title="TR SİNEMA 7/24",Sinema 20
-http://zeustv.sbs:25461/freetv_test/freetv_test/694683
+http://zeustv.sbs:25461/freetv_test/freetv_test/694683.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Savaş Tarih 1" tvg-logo="https://i.ibb.co/Z1fxb0rX/Savas-Tarihleri.png" group-title="TR SİNEMA 7/24",Savaş Tarih 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694684
+http://zeustv.sbs:25461/freetv_test/freetv_test/694684.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Savaş Tarih 2" tvg-logo="https://i.ibb.co/Z1fxb0rX/Savas-Tarihleri.png" group-title="TR SİNEMA 7/24",Savaş Tarih 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694685
+http://zeustv.sbs:25461/freetv_test/freetv_test/694685.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Savaş Tarih 3" tvg-logo="https://i.ibb.co/Z1fxb0rX/Savas-Tarihleri.png" group-title="TR SİNEMA 7/24",Savaş Tarih 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694686
+http://zeustv.sbs:25461/freetv_test/freetv_test/694686.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 1" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694687
+http://zeustv.sbs:25461/freetv_test/freetv_test/694687.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 2" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694688
+http://zeustv.sbs:25461/freetv_test/freetv_test/694688.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 3" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694689
+http://zeustv.sbs:25461/freetv_test/freetv_test/694689.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 4" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/694690
+http://zeustv.sbs:25461/freetv_test/freetv_test/694690.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 5" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 5
-http://zeustv.sbs:25461/freetv_test/freetv_test/694691
+http://zeustv.sbs:25461/freetv_test/freetv_test/694691.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 6" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 6
-http://zeustv.sbs:25461/freetv_test/freetv_test/694692
+http://zeustv.sbs:25461/freetv_test/freetv_test/694692.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 7" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 7
-http://zeustv.sbs:25461/freetv_test/freetv_test/694693
+http://zeustv.sbs:25461/freetv_test/freetv_test/694693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 8" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 8
-http://zeustv.sbs:25461/freetv_test/freetv_test/694694
+http://zeustv.sbs:25461/freetv_test/freetv_test/694694.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 9" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 9
-http://zeustv.sbs:25461/freetv_test/freetv_test/694695
+http://zeustv.sbs:25461/freetv_test/freetv_test/694695.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 10" tvg-logo="https://i.ibb.co/cXbtZsng/Romantik.png" group-title="TR SİNEMA 7/24",Romantik 10
-http://zeustv.sbs:25461/freetv_test/freetv_test/694696
+http://zeustv.sbs:25461/freetv_test/freetv_test/694696.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romantik 11" tvg-logo="https://i.ibb.co/Z1fxb0rX/Savas-Tarihleri.png" group-title="TR SİNEMA 7/24",Romantik 11
-http://zeustv.sbs:25461/freetv_test/freetv_test/694697
+http://zeustv.sbs:25461/freetv_test/freetv_test/694697.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bilim Kurgu 1" tvg-logo="https://i.ibb.co/hxKD148V/Bilim-Kurgu.png" group-title="TR SİNEMA 7/24",Bilim Kurgu 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694698
+http://zeustv.sbs:25461/freetv_test/freetv_test/694698.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bilim Kurgu 2" tvg-logo="https://i.ibb.co/hxKD148V/Bilim-Kurgu.png" group-title="TR SİNEMA 7/24",Bilim Kurgu 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694699
+http://zeustv.sbs:25461/freetv_test/freetv_test/694699.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bilim Kurgu 3" tvg-logo="https://i.ibb.co/hxKD148V/Bilim-Kurgu.png" group-title="TR SİNEMA 7/24",Bilim Kurgu 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694700
+http://zeustv.sbs:25461/freetv_test/freetv_test/694700.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bilim Kurgu 4" tvg-logo="https://i.ibb.co/hxKD148V/Bilim-Kurgu.png" group-title="TR SİNEMA 7/24",Bilim Kurgu 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/694701
+http://zeustv.sbs:25461/freetv_test/freetv_test/694701.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bilim Kurgu 5" tvg-logo="https://i.ibb.co/hxKD148V/Bilim-Kurgu.png" group-title="TR SİNEMA 7/24",Bilim Kurgu 5
-http://zeustv.sbs:25461/freetv_test/freetv_test/694702
+http://zeustv.sbs:25461/freetv_test/freetv_test/694702.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 1" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.cocuk/animasyon.1.png" group-title="TR SİNEMA 7/24",Animasyon 1
-http://zeustv.sbs:25461/freetv_test/freetv_test/694703
+http://zeustv.sbs:25461/freetv_test/freetv_test/694703.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 2" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 2
-http://zeustv.sbs:25461/freetv_test/freetv_test/694704
+http://zeustv.sbs:25461/freetv_test/freetv_test/694704.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 3" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 3
-http://zeustv.sbs:25461/freetv_test/freetv_test/694705
+http://zeustv.sbs:25461/freetv_test/freetv_test/694705.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 4" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 4
-http://zeustv.sbs:25461/freetv_test/freetv_test/694706
+http://zeustv.sbs:25461/freetv_test/freetv_test/694706.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 5" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 5
-http://zeustv.sbs:25461/freetv_test/freetv_test/694707
+http://zeustv.sbs:25461/freetv_test/freetv_test/694707.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 6" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 6
-http://zeustv.sbs:25461/freetv_test/freetv_test/694708
+http://zeustv.sbs:25461/freetv_test/freetv_test/694708.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 7" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 7
-http://zeustv.sbs:25461/freetv_test/freetv_test/694709
+http://zeustv.sbs:25461/freetv_test/freetv_test/694709.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 8" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 8
-http://zeustv.sbs:25461/freetv_test/freetv_test/694710
+http://zeustv.sbs:25461/freetv_test/freetv_test/694710.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 9" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 9
-http://zeustv.sbs:25461/freetv_test/freetv_test/694711
+http://zeustv.sbs:25461/freetv_test/freetv_test/694711.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 10" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 10
-http://zeustv.sbs:25461/freetv_test/freetv_test/694712
+http://zeustv.sbs:25461/freetv_test/freetv_test/694712.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 11" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 11
-http://zeustv.sbs:25461/freetv_test/freetv_test/694713
+http://zeustv.sbs:25461/freetv_test/freetv_test/694713.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 12" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 12
-http://zeustv.sbs:25461/freetv_test/freetv_test/694714
+http://zeustv.sbs:25461/freetv_test/freetv_test/694714.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 13" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 13
-http://zeustv.sbs:25461/freetv_test/freetv_test/694715
+http://zeustv.sbs:25461/freetv_test/freetv_test/694715.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 14" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 14
-http://zeustv.sbs:25461/freetv_test/freetv_test/694716
+http://zeustv.sbs:25461/freetv_test/freetv_test/694716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 15" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 15
-http://zeustv.sbs:25461/freetv_test/freetv_test/694717
+http://zeustv.sbs:25461/freetv_test/freetv_test/694717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 16" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 16
-http://zeustv.sbs:25461/freetv_test/freetv_test/694718
+http://zeustv.sbs:25461/freetv_test/freetv_test/694718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 17" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 17
-http://zeustv.sbs:25461/freetv_test/freetv_test/694719
+http://zeustv.sbs:25461/freetv_test/freetv_test/694719.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animasyon 18" tvg-logo="https://i.ibb.co/ksLVFt76/Animasyon.png" group-title="TR SİNEMA 7/24",Animasyon 18
-http://zeustv.sbs:25461/freetv_test/freetv_test/694720
+http://zeustv.sbs:25461/freetv_test/freetv_test/694720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Vizyon" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Vizyon
-http://zeustv.sbs:25461/freetv_test/freetv_test/694721
+http://zeustv.sbs:25461/freetv_test/freetv_test/694721.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Action" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Action
-http://zeustv.sbs:25461/freetv_test/freetv_test/694722
+http://zeustv.sbs:25461/freetv_test/freetv_test/694722.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Animasyon" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Animasyon
-http://zeustv.sbs:25461/freetv_test/freetv_test/694723
+http://zeustv.sbs:25461/freetv_test/freetv_test/694723.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Bilim Kurgu" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Bilim Kurgu
-http://zeustv.sbs:25461/freetv_test/freetv_test/694724
+http://zeustv.sbs:25461/freetv_test/freetv_test/694724.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Comedy" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Comedy
-http://zeustv.sbs:25461/freetv_test/freetv_test/694725
+http://zeustv.sbs:25461/freetv_test/freetv_test/694725.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox DRAM" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox DRAM
-http://zeustv.sbs:25461/freetv_test/freetv_test/694726
+http://zeustv.sbs:25461/freetv_test/freetv_test/694726.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Fantastic" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Fantastic
-http://zeustv.sbs:25461/freetv_test/freetv_test/694727
+http://zeustv.sbs:25461/freetv_test/freetv_test/694727.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Gerilim" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Gerilim
-http://zeustv.sbs:25461/freetv_test/freetv_test/694728
+http://zeustv.sbs:25461/freetv_test/freetv_test/694728.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox HİNT" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox HİNT
-http://zeustv.sbs:25461/freetv_test/freetv_test/694729
+http://zeustv.sbs:25461/freetv_test/freetv_test/694729.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Korku" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Korku
-http://zeustv.sbs:25461/freetv_test/freetv_test/694730
+http://zeustv.sbs:25461/freetv_test/freetv_test/694730.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Macera" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Macera
-http://zeustv.sbs:25461/freetv_test/freetv_test/694731
+http://zeustv.sbs:25461/freetv_test/freetv_test/694731.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Western" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Western
-http://zeustv.sbs:25461/freetv_test/freetv_test/694732
+http://zeustv.sbs:25461/freetv_test/freetv_test/694732.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Yerli" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Yerli
-http://zeustv.sbs:25461/freetv_test/freetv_test/694733
+http://zeustv.sbs:25461/freetv_test/freetv_test/694733.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Realbox Yeşilçam" tvg-logo="https://i.ibb.co/FbGpwSSx/realbox.png" group-title="TR SİNEMA REALBOX",TR: Realbox Yeşilçam
-http://zeustv.sbs:25461/freetv_test/freetv_test/694734
+http://zeustv.sbs:25461/freetv_test/freetv_test/694734.m3u8
