@@ -50,86 +50,87 @@ http://zeustv.sbs:25461/freetv_test/freetv_test/691946
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sportstv" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/sportstv.png" group-title="TR SPOR+",TR: Sportstv
 http://zeustv.sbs:25461/freetv_test/freetv_test/691947
 
+#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS HABER
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS HABER
 http://zeustv.sbs:25461/freetv_test/freetv_test/502018
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 (OZEL FEED YAYIN)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 (OZEL FEED YAYIN)
 http://zeustv.sbs:25461/freetv_test/freetv_test/502004
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 8K FEED
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 8K FEED
 http://zeustv.sbs:25461/freetv_test/freetv_test/501983
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4K FEED(UYDU)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4K FEED(UYDU)
 http://zeustv.sbs:25461/freetv_test/freetv_test/501982
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4K FEED(KUTU)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4K FEED(KUTU)
 http://zeustv.sbs:25461/freetv_test/freetv_test/696150
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 FEED
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 FEED
 http://zeustv.sbs:25461/freetv_test/freetv_test/501981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 (720PFEED)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 (720PFEED)
 http://zeustv.sbs:25461/freetv_test/freetv_test/501985
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 +
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 +
 http://zeustv.sbs:25461/freetv_test/freetv_test/501986
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 50 FPS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 50 FPS
 http://zeustv.sbs:25461/freetv_test/freetv_test/501987
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 H265
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 H265
 http://zeustv.sbs:25461/freetv_test/freetv_test/501988
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 HD (TURKEY)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 HD (TURKEY)
 http://zeustv.sbs:25461/freetv_test/freetv_test/501989
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 (720P)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 (720P)
 http://zeustv.sbs:25461/freetv_test/freetv_test/501990
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1 HD
 http://zeustv.sbs:25461/freetv_test/freetv_test/501991
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 1
 http://zeustv.sbs:25461/freetv_test/freetv_test/501980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN 1 FEED (720P)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN 1 FEED (720P)
 http://zeustv.sbs:25461/freetv_test/freetv_test/501992
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN 1 SD (480P)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN 1 SD (480P)
 http://zeustv.sbs:25461/freetv_test/freetv_test/501993
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPOTS1 SD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPOTS1 SD
 http://zeustv.sbs:25461/freetv_test/freetv_test/501994
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 720P FEED
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 720P FEED
 http://zeustv.sbs:25461/freetv_test/freetv_test/501995
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN 1 SD (360P)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN 1 SD (360P)
 http://zeustv.sbs:25461/freetv_test/freetv_test/501996
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 2
 http://zeustv.sbs:25461/freetv_test/freetv_test/501997
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 2 HD
 http://zeustv.sbs:25461/freetv_test/freetv_test/501998
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 2 SD
 http://zeustv.sbs:25461/freetv_test/freetv_test/501999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 2 UHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 2 UHD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 3
 http://zeustv.sbs:25461/freetv_test/freetv_test/502001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 3 HD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 3 SD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502003
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 3 UHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 3 UHD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502005
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4 UHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4 UHD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4
 http://zeustv.sbs:25461/freetv_test/freetv_test/516388
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4 HD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 4 SD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 5
 http://zeustv.sbs:25461/freetv_test/freetv_test/502009
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 5 FHD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502010
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 5 HD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502011
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS 5 SD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502012
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 1 FHD
 http://zeustv.sbs:25461/freetv_test/freetv_test/999779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 1
 http://zeustv.sbs:25461/freetv_test/freetv_test/691954
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 1 HD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502015
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 2 FHD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502016
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 2 HD
 http://zeustv.sbs:25461/freetv_test/freetv_test/502017
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.wpfc.ml/90d/ka/0og5fr.png" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS MAX 2
 http://zeustv.sbs:25461/freetv_test/freetv_test/502019
