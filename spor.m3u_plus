@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports Haber | FHD" tvg-logo="https://i.imgur.com/3TUL7eh.png" group-title="TR SPOR+",TR: beIN Sports Haber | FHD
 http://zeustv.sbs:25461/freetv_test/freetv_test/691923
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR FHD" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/trt.spor.png" group-title="TR SPOR+",TR: TRT SPOR FHD
@@ -50,7 +51,6 @@ http://zeustv.sbs:25461/freetv_test/freetv_test/691946
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sportstv" tvg-logo="https://titansorgu.xyz/logo/logolar/tr.spor%2B/sportstv.png" group-title="TR SPOR+",TR: Sportstv
 http://zeustv.sbs:25461/freetv_test/freetv_test/691947
 
-#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⓵ ➠ StarLIVE SPOR 1",BEIN SPORTS HABER
 http://zeustv.sbs:25461/freetv_test/freetv_test/502018
