@@ -296,7 +296,7 @@ http://zeustv.sbs:25461/freetv_test/freetv_test/501729
 http://zeustv.sbs:25461/freetv_test/freetv_test/501730
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="4K TR: TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="➥[ ULUSAL KANALLAR 4K ]",➥ 4K TR: TV8
 http://zeustv.sbs:25461/freetv_test/freetv_test/501731
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="4K TR: TV8,5" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR 4K ]",➥ 5
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="4K TR: TV8.5" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR 4K ]",➥ TV8.5
 http://zeustv.sbs:25461/freetv_test/freetv_test/999771
 #EXTINF:-1  tvg-name="TRT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/960px-TRT_4K.svg.png" group-title="➥[ ULUSAL KANALLAR 4K ]",➥ TRT 4K
 http://zeustv.sbs:25461/freetv_test/freetv_test/501711
@@ -340,7 +340,7 @@ http://zeustv.sbs:25461/freetv_test/freetv_test/501729
 http://zeustv.sbs:25461/freetv_test/freetv_test/501730
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="4K TR: TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" group-title="➥[ ULUSAL KANALLAR 4K ]",➥ 4K TR: TV8
 http://zeustv.sbs:25461/freetv_test/freetv_test/501731
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="4K TR: TV8,5" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR 4K ]",➥ TV8 5
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="4K TR: TV8.5" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR 4K ]",➥ TV8.5
 http://zeustv.sbs:25461/freetv_test/freetv_test/999771
 #EXTINF:-1 tvg-id="TRT.1.HD.tr" tvg-name="TRT 1 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",TRT 1 RAW
 http://zeustv.sbs:25461/freetv_test/freetv_test/501733
@@ -402,7 +402,7 @@ http://zeustv.sbs:25461/freetv_test/freetv_test/999773
 http://zeustv.sbs:25461/freetv_test/freetv_test/501761
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8 HEVC" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",TV 8 HEVC
 http://zeustv.sbs:25461/freetv_test/freetv_test/501762
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8 5 RAW" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",TV8 5 RAW
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8.5 RAW" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",TV8.5 RAW
 http://zeustv.sbs:25461/freetv_test/freetv_test/501763
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="SHOW TV RAW" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",SHOW TV RAW
 http://zeustv.sbs:25461/freetv_test/freetv_test/516284
@@ -466,7 +466,7 @@ http://zeustv.sbs:25461/freetv_test/freetv_test/999773
 http://zeustv.sbs:25461/freetv_test/freetv_test/501761
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8 HEVC" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",TV 8 HEVC
 http://zeustv.sbs:25461/freetv_test/freetv_test/501762
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8 5 RAW" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",TV8 5 RAW
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV8.5 RAW" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",TV8.5 RAW
 http://zeustv.sbs:25461/freetv_test/freetv_test/501763
 #EXTINF:-1 tvg-id="SHOW.TV.HD.tr" tvg-name="SHOW TV RAW" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="➥[ ULUSAL KANALLAR RAW / HEVC ]",SHOW TV RAW
 http://zeustv.sbs:25461/freetv_test/freetv_test/516284
@@ -530,11 +530,11 @@ http://zeustv.sbs:25461/freetv_test/freetv_test/690875
 http://zeustv.sbs:25461/freetv_test/freetv_test/690876
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8 HD (H265)" tvg-logo="https://resmim.net/cdn/2026/08/29/EOztQ8.png" group-title="➥[ ULUSAL KANALLAR FHD / HD / SD ]",TV 8 HD (H265)
 http://zeustv.sbs:25461/freetv_test/freetv_test/690877
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR FHD / HD / SD ]",TV8 5
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR FHD / HD / SD ]",TV8.5
 http://zeustv.sbs:25461/freetv_test/freetv_test/690878
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5 HD" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR FHD / HD / SD ]",TV8 5 HD
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5 HD" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR FHD / HD / SD ]",TV8.5 HD
 http://zeustv.sbs:25461/freetv_test/freetv_test/690879
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5 FHD" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR FHD / HD / SD ]",TV8 5 FHD
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-name="TV 8.5 FHD" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="➥[ ULUSAL KANALLAR FHD / HD / SD ]",TV8.5 FHD
 http://zeustv.sbs:25461/freetv_test/freetv_test/690880
 #EXTINF:-1 tvg-id="TEVE2.HD.tr" tvg-name="TEVE 2" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="➥[ ULUSAL KANALLAR FHD / HD / SD ]",TEVE 2
 http://zeustv.sbs:25461/freetv_test/freetv_test/690881
